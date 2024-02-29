@@ -49,7 +49,7 @@ jobs:
     - name: Configure Git
       run: git config --global user.email "no-reply@github.com" && git config --global user.name "Github Actions"
     - name: Tag & Release
-      uses: softprops/action-gh-release@v1
+      uses: softprops/action-gh-release@v0.1.15
       with:
         tag_name: v${{ github.run_number }}-stable
         target_commitish: main
