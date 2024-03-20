@@ -616,10 +616,37 @@
     },
     {
       "file": "gamula/ui/gui/gui_shop_testing.png",
-      "ascent": 46,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "锅"
+      ],
+      "height": 256
+    },
+    {
+      "file": "gamula/ui/gui/gui_cosmetics_testing.png",
+      "ascent": 47,
+      "type": "bitmap",
+      "chars": [
+        "锐"
+      ],
+      "height": 256
+    },
+    {
+      "file": "gamula/ui/gui/gui_goobits_testing.png",
+      "ascent": 47,
+      "type": "bitmap",
+      "chars": [
+        "锁"
+      ],
+      "height": 256
+    },
+    {
+      "file": "gamula/ui/gui/gui_crates_testing.png",
+      "ascent": 47,
+      "type": "bitmap",
+      "chars": [
+        "锈"
       ],
       "height": 256
     },
