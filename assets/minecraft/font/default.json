@@ -625,7 +625,7 @@
     },
     {
       "file": "gamula/ui/gui/gui_cosmetics_testing.png",
-      "ascent": 47,
+      "ascent": 43,
       "type": "bitmap",
       "chars": [
         "锐"
@@ -634,7 +634,7 @@
     },
     {
       "file": "gamula/ui/gui/gui_goobits_testing.png",
-      "ascent": 47,
+      "ascent": 43,
       "type": "bitmap",
       "chars": [
         "锁"
