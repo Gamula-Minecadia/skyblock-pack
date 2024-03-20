@@ -633,15 +633,6 @@
       "height": 256
     },
     {
-      "file": "gamula/ui/gui/gui_goobits_testing.png",
-      "ascent": 43,
-      "type": "bitmap",
-      "chars": [
-        "锁"
-      ],
-      "height": 256
-    },
-    {
       "file": "gamula/ui/gui/gui_crates_testing.png",
       "ascent": 47,
       "type": "bitmap",
@@ -660,7 +651,7 @@
       "height": 256
     },
     {
-      "file": "gamula/ui/gui/goobits/gui_goobits_crates.png",
+      "file": "gamula/ui/gui/gold/gui_gold_crates.png",
       "ascent": 29,
       "type": "bitmap",
       "chars": [
@@ -669,7 +660,7 @@
       "height": 256
     },
     {
-      "file": "gamula/ui/gui/goobits/gui_goobits_ranks.png",
+      "file": "gamula/ui/gui/gold/gui_gold_ranks.png",
       "ascent": 30,
       "type": "bitmap",
       "chars": [
@@ -678,8 +669,8 @@
       "height": 256
     },
     {
-      "file": "gamula/ui/gui/goobits/gui_goobits_shop.png",
-      "ascent": 29,
+      "file": "gamula/ui/gui/gold/gui_gold_shop.png",
+      "ascent": 43,
       "type": "bitmap",
       "chars": [
         "⼣"
@@ -687,7 +678,7 @@
       "height": 256
     },
     {
-      "file": "gamula/ui/gui/goobits/gui_goobits_misc_category.png",
+      "file": "gamula/ui/gui/gold/gui_gold_misc_category.png",
       "ascent": 28,
       "type": "bitmap",
       "chars": [
@@ -696,7 +687,7 @@
       "height": 256
     },
     {
-      "file": "gamula/ui/gui/goobits/gui_goobits_cosmetic_category.png",
+      "file": "gamula/ui/gui/gold/gui_gold_cosmetic_category.png",
       "ascent": 28,
       "type": "bitmap",
       "chars": [
@@ -705,7 +696,7 @@
       "height": 256
     },
     {
-      "file": "gamula/ui/gui/goobits/gui_goobits_selection.png",
+      "file": "gamula/ui/gui/gold/gui_gold_selection.png",
       "ascent": 29,
       "type": "bitmap",
       "chars": [
@@ -894,25 +885,7 @@
       "height": 256
     },
     {
-      "file": "gamula/ui/gui/cosmetics/tags/gui_tags_menu.png",
-      "ascent": 29,
-      "type": "bitmap",
-      "chars": [
-        "果"
-      ],
-      "height": 256
-    },
-    {
-      "file": "gamula/ui/gui/cosmetics/tags/gui_tags_global.png",
-      "ascent": 29,
-      "type": "bitmap",
-      "chars": [
-        "林"
-      ],
-      "height": 256
-    },
-    {
-      "file": "gamula/ui/gui/cosmetics/tags/gui_tags_server.png",
+      "file": "gamula/ui/gui/cosmetics/tags/gui_tags.png",
       "ascent": 29,
       "type": "bitmap",
       "chars": [
@@ -1129,7 +1102,7 @@
     },
     {
       "file": "gamula/ui/gui/cosmetics/prefix/gui_prefix.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "롖"
@@ -1385,7 +1358,7 @@
         "冰"
       ],
       "height": 256,
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap"
     },
     {
@@ -1394,7 +1367,7 @@
         "论"
       ],
       "height": 256,
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap"
     },
     {
@@ -1403,7 +1376,7 @@
         "退"
       ],
       "height": 256,
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap"
     },
     {
@@ -1412,7 +1385,7 @@
         "吗"
       ],
       "height": 256,
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap"
     },
     {
@@ -1421,7 +1394,7 @@
         "哈"
       ],
       "height": 256,
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap"
     },
     {
@@ -1430,7 +1403,7 @@
         "边"
       ],
       "height": 256,
-      "ascent": 29,
+      "ascent": 43,
       "type": "bitmap"
     },
     {
@@ -1439,7 +1412,7 @@
         "岟"
       ],
       "height": 256,
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap"
     },
     {
@@ -1768,7 +1741,7 @@
     },
     {
       "file": "gamula/ui/gui/shop/gui_shop_outpost.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "杂"
@@ -1777,7 +1750,7 @@
     },
     {
       "file": "gamula/ui/gui/shop/gui_shop_blocks.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "ꀎ"
@@ -1786,7 +1759,7 @@
     },
     {
       "file": "gamula/ui/gui/shop/gui_shop_colors.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "ꀏ"
@@ -1813,7 +1786,7 @@
     },
     {
       "file": "gamula/ui/gui/shop/gui_shop_crops.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "ꀀ"
@@ -1822,7 +1795,7 @@
     },
     {
       "file": "gamula/ui/gui/shop/gui_shop_dyes.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "ꀒ"
@@ -1831,7 +1804,7 @@
     },
     {
       "file": "gamula/ui/gui/shop/gui_shop_flowers.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "ꀓ"
@@ -1840,7 +1813,7 @@
     },
     {
       "file": "gamula/ui/gui/shop/gui_shop_spawners.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "ꀔ"
@@ -1849,7 +1822,7 @@
     },
     {
       "file": "gamula/ui/gui/shop/gui_shop_generic.png",
-      "ascent": 29,
+      "ascent": 43,
       "type": "bitmap",
       "chars": [
         "⼎"
@@ -1858,7 +1831,7 @@
     },
     {
       "file": "gamula/ui/gui/shop/gui_shop_misc.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "⼤"
@@ -1867,7 +1840,7 @@
     },
     {
       "file": "gamula/ui/gui/shop/gui_shop_exp.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "讨"
@@ -1876,7 +1849,7 @@
     },
     {
       "file": "gamula/ui/gui/shop/gui_shop_three.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "吧"
@@ -1885,7 +1858,7 @@
     },
     {
       "file": "gamula/ui/gui/shop/gui_shop_mob_loot.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "ꀕ"
@@ -1894,7 +1867,7 @@
     },
     {
       "file": "gamula/ui/gui/shop/gui_shop_more.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "ퟦ"
@@ -1903,7 +1876,7 @@
     },
     {
       "file": "gamula/ui/gui/shop/gui_shop_ores.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "ꀖ"
@@ -1912,7 +1885,7 @@
     },
     {
       "file": "gamula/ui/gui/shop/gui_shop_redstone.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "ꀗ"
