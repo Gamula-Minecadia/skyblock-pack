@@ -2091,15 +2091,6 @@
       "height": 9
     },
     {
-      "file": "gamula/titles/ranks/title_vip.png",
-      "ascent": 8,
-      "type": "bitmap",
-      "chars": [
-        "海"
-      ],
-      "height": 9
-    },
-    {
       "file": "gamula/titles/ranks/title_cheat_blue.png",
       "ascent": 8,
       "type": "bitmap",
