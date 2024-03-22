@@ -48,6 +48,177 @@
     {
       "ascent": 8,
       "chars": [
+        "药"
+      ],
+      "file": "gamula/icons/scoreboard/dollar.png",
+      "height": 9,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "茶"
+      ],
+      "file": "gamula/icons/scoreboard/flower.png",
+      "height": 9,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "荡"
+      ],
+      "file": "gamula/icons/scoreboard/gold_bag.png",
+      "height": 9,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "菜"
+      ],
+      "file": "gamula/icons/scoreboard/gold_coin.png",
+      "height": 9,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "落"
+      ],
+      "file": "gamula/icons/scoreboard/green_mushroom.png",
+      "height": 9,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "薄"
+      ],
+      "file": "gamula/icons/scoreboard/island.png",
+      "height": 9,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "什"
+      ],
+      "file": "gamula/icons/scoreboard/lucky_block.png",
+      "height": 9,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "化"
+      ],
+      "file": "gamula/icons/scoreboard/pencil.png",
+      "height": 9,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "仍"
+      ],
+      "file": "gamula/icons/scoreboard/pin.png",
+      "height": 9,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "仅"
+      ],
+      "file": "gamula/icons/scoreboard/rainbow_star.png",
+      "height": 9,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "仇"
+      ],
+      "file": "gamula/icons/scoreboard/red_mushroom.png",
+      "height": 9,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "他"
+      ],
+      "file": "gamula/icons/scoreboard/shell.png",
+      "height": 9,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "们"
+      ],
+      "file": "gamula/icons/scoreboard/sign.png",
+      "height": 9,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "代"
+      ],
+      "file": "gamula/icons/scoreboard/skull.png",
+      "height": 9,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "仙"
+      ],
+      "file": "gamula/icons/scoreboard/star.png",
+      "height": 9,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "件"
+      ],
+      "file": "gamula/icons/scoreboard/ticket.png",
+      "height": 9,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "价"
+      ],
+      "file": "gamula/icons/scoreboard/timer.png",
+      "height": 9,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "拉"
+      ],
+      "file": "gamula/icons/scoreboard/vote.png",
+      "height": 9,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "指"
+      ],
+      "file": "gamula/icons/scoreboard/yoshi.png",
+      "height": 9,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
         "댲"
       ],
       "file": "block/deepslate_copper_ore.png",
