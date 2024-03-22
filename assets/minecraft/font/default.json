@@ -48,7 +48,7 @@
     {
       "type": "bitmap",
       "file": "gamula/icons/scoreboard/ui_logo.png",
-      "ascent": 86,
+      "ascent": 96,
       "height": 128,
       "chars": [
         "权"
