@@ -1812,11 +1812,20 @@
       "height": 256
     },
     {
-      "file": "gamula/titles/ranks/title_media.png",
+      "file": "gamula/titles/ranks/title_streamer.png",
       "ascent": 8,
       "type": "bitmap",
       "chars": [
         "溪"
+      ],
+      "height": 9
+    },
+    {
+      "file": "gamula/titles/ranks/title_youtuber.png",
+      "ascent": 8,
+      "type": "bitmap",
+      "chars": [
+        "肤"
       ],
       "height": 9
     },
@@ -1875,7 +1884,7 @@
       "height": 9
     },
     {
-      "file": "gamula/titles/ranks/title_blitz.png",
+      "file": "gamula/titles/ranks/title_coin.png",
       "ascent": 8,
       "type": "bitmap",
       "chars": [
@@ -1884,7 +1893,7 @@
       "height": 9
     },
     {
-      "file": "gamula/titles/ranks/title_brawl.png",
+      "file": "gamula/titles/ranks/title_score.png",
       "ascent": 8,
       "type": "bitmap",
       "chars": [
@@ -1929,7 +1938,7 @@
       "height": 9
     },
     {
-      "file": "gamula/titles/ranks/title_glitch.png",
+      "file": "gamula/titles/ranks/title_cheat.png",
       "ascent": 8,
       "type": "bitmap",
       "chars": [
@@ -1992,7 +2001,7 @@
       "height": 9
     },
     {
-      "file": "gamula/titles/ranks/title_puff.png",
+      "file": "gamula/titles/ranks/title_byte.png",
       "ascent": 8,
       "type": "bitmap",
       "chars": [
@@ -2019,7 +2028,7 @@
       "height": 9
     },
     {
-      "file": "gamula/titles/ranks/title_smash.png",
+      "file": "gamula/titles/ranks/title_retro.png",
       "ascent": 8,
       "type": "bitmap",
       "chars": [
@@ -2037,7 +2046,7 @@
       "height": 9
     },
     {
-      "file": "gamula/titles/ranks/title_twist.png",
+      "file": "gamula/titles/ranks/title_pixel.png",
       "ascent": 8,
       "type": "bitmap",
       "chars": [
@@ -2091,7 +2100,7 @@
       "height": 9
     },
     {
-      "file": "gamula/titles/ranks/title_glitch_white.png",
+      "file": "gamula/titles/ranks/title_cheat_blue.png",
       "ascent": 8,
       "type": "bitmap",
       "chars": [
@@ -2100,7 +2109,7 @@
       "height": 9
     },
     {
-      "file": "gamula/titles/ranks/title_glitch_cottoncandy.png",
+      "file": "gamula/titles/ranks/title_cheat_green.png",
       "ascent": 8,
       "type": "bitmap",
       "chars": [
@@ -2109,7 +2118,7 @@
       "height": 9
     },
     {
-      "file": "gamula/titles/ranks/title_glitch_3d.png",
+      "file": "gamula/titles/ranks/title_cheat_orange.png",
       "ascent": 8,
       "type": "bitmap",
       "chars": [
@@ -2118,7 +2127,7 @@
       "height": 9
     },
     {
-      "file": "gamula/titles/ranks/title_glitch_yellow.png",
+      "file": "gamula/titles/ranks/title_cheat_purple.png",
       "ascent": 8,
       "type": "bitmap",
       "chars": [
@@ -2127,11 +2136,29 @@
       "height": 9
     },
     {
-      "file": "gamula/titles/ranks/title_glitch_wave.png",
+      "file": "gamula/titles/ranks/title_cheat_rainbow.png",
       "ascent": 8,
       "type": "bitmap",
       "chars": [
         "温"
+      ],
+      "height": 9
+    },
+    {
+      "file": "gamula/titles/ranks/title_cheat_red.png",
+      "ascent": 8,
+      "type": "bitmap",
+      "chars": [
+        "想"
+      ],
+      "height": 9
+    },
+    {
+      "file": "gamula/titles/ranks/title_cheat_retro.png",
+      "ascent": 8,
+      "type": "bitmap",
+      "chars": [
+        "意"
       ],
       "height": 9
     },
@@ -2334,9 +2361,8 @@
     {"file":"gamula/titles/tags/valentine/rose.png","ascent":8,"type":"bitmap","chars":["烤"],"height":9},
     {"file":"gamula/titles/tags/valentine/teddybear.png","ascent":8,"type":"bitmap","chars":["烛"],"height":9},
     {"file":"gamula/titles/tags/valentine/wrapped_heart.png","ascent":8,"type":"bitmap","chars":["爆"],"height":9},
-    {"file":"gamula/titles/ranks/title_glitch_prefix.png","ascent":8,"type":"bitmap","chars":["想","意","感","愿","笑","第","笨"],"height":9},
-    {"file":"gamula/titles/ranks/title_owner.png","ascent":8,"type":"bitmap","chars":["","","","","","","","ల"],"height":9},
-    {"file":"gamula/titles/ranks/title_developer.png","ascent":8,"type":"bitmap","chars":["","","",""],"height":9},
+    {"file":"gamula/titles/ranks/title_owner.png","ascent":8,"type":"bitmap","chars":[""],"height":9},
+    {"file":"gamula/titles/ranks/title_developer.png","ascent":8,"type":"bitmap","chars":[""],"height":9},
     {"file":"gamula/titles/ranks/title_partner.png","ascent":8,"type":"bitmap","chars":["冻"],"height":9},
     {"file":"gamula/titles/ranks/title_manager.png","ascent":8,"type":"bitmap","chars":["浓"],"height":9},
     {"file":"gamula/icons/symbols/symbol_emoji.png","ascent":8,"type":"bitmap","chars":["뮦","뮧","뮨","뮩","뮪","뮫","뮬","뮭","뮮","뮯","뮰","뮱","뮲","뮳","뮴","뮵"],"height":9},
