@@ -328,12 +328,57 @@
     },
     {
       "file": "gamula/ui/gui/exit/ui_exit_screen_disconnect.png",
-      "ascent": 7,
+      "ascent": 32,
       "type": "bitmap",
       "chars": [
         "ⶭ"
       ],
-      "height": 7
+      "height": 53
+    },
+    {
+      "file": "gamula/ui/gui/exit/ui_exit_screen_stats.png",
+      "ascent": 14,
+      "type": "bitmap",
+      "chars": [
+        "肺"
+      ],
+      "height": 22
+    },
+    {
+      "file": "gamula/ui/gui/exit/ui_exit_screen_advancements.png",
+      "ascent": 14,
+      "type": "bitmap",
+      "chars": [
+        "肾"
+      ],
+      "height": 22
+    },
+    {
+      "file": "gamula/ui/gui/exit/ui_exit_screen_preport.png",
+      "ascent": 14,
+      "type": "bitmap",
+      "chars": [
+        "背"
+      ],
+      "height": 22
+    },
+    {
+      "file": "gamula/ui/gui/exit/ui_exit_screen_feedback.png",
+      "ascent": 14,
+      "type": "bitmap",
+      "chars": [
+        "胜"
+      ],
+      "height": 22
+    },
+    {
+      "file": "gamula/ui/gui/exit/ui_exit_screen_rbugs.png",
+      "ascent": 14,
+      "type": "bitmap",
+      "chars": [
+        "胆"
+      ],
+      "height": 22
     },
     {
       "file": "gamula/ui/ui_overlay_fade.png",
