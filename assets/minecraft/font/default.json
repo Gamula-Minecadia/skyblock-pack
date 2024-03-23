@@ -913,7 +913,7 @@
     },
     {
       "file": "gamula/ui/gui/auction/gui_auction_categories.png",
-      "ascent": 43,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "⋉"
@@ -922,7 +922,7 @@
     },
     {
       "file": "gamula/ui/gui/auction/gui_auction_confirm.png",
-      "ascent": 43,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "⼛"
@@ -931,7 +931,7 @@
     },
     {
       "file": "gamula/ui/gui/auction/gui_auction_confirm_sell.png",
-      "ascent": 43,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "䶏"
@@ -940,7 +940,7 @@
     },
     {
       "file": "gamula/ui/gui/auction/gui_auction_menu.png",
-      "ascent": 43,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "⋈"
