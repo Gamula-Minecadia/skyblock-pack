@@ -913,7 +913,7 @@
     },
     {
       "file": "gamula/ui/gui/auction/gui_auction_categories.png",
-      "ascent": 47,
+      "ascent": 43,
       "type": "bitmap",
       "chars": [
         "⋉"
