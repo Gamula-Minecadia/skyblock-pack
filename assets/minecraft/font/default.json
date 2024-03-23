@@ -940,7 +940,7 @@
     },
     {
       "file": "gamula/ui/gui/auction/gui_auction_menu.png",
-      "ascent": 29,
+      "ascent": 43,
       "type": "bitmap",
       "chars": [
         "⋈"
