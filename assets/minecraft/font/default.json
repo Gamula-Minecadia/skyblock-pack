@@ -723,24 +723,6 @@
       "height": 256
     },
     {
-      "file": "gamula/ui/gui/quests/gui_gravestone.png",
-      "ascent": 28,
-      "type": "bitmap",
-      "chars": [
-        "准"
-      ],
-      "height": 256
-    },
-    {
-      "file": "gamula/ui/gui/quests/gui_gravestone_inventory.png",
-      "ascent": 28,
-      "type": "bitmap",
-      "chars": [
-        "决"
-      ],
-      "height": 256
-    },
-    {
       "file": "gamula/ui/gui/quests/gui_crafting.png",
       "ascent": 28,
       "type": "bitmap",
@@ -948,15 +930,6 @@
       "height": 256
     },
     {
-      "file": "gamula/ui/gui/seeds/gui_tree_menu.png",
-      "ascent": 29,
-      "type": "bitmap",
-      "chars": [
-        "ゐ"
-      ],
-      "height": 256
-    },
-    {
       "file": "gamula/ui/gui/seeds/gui_seeds_menu.png",
       "ascent": 29,
       "type": "bitmap",
@@ -1070,24 +1043,6 @@
       "type": "bitmap",
       "chars": [
         "⼌"
-      ],
-      "height": 256
-    },
-    {
-      "file": "gamula/ui/gui/islands/gui_island_top_value.png",
-      "ascent": 29,
-      "type": "bitmap",
-      "chars": [
-        "冽"
-      ],
-      "height": 256
-    },
-    {
-      "file": "gamula/ui/gui/islands/gui_island_top_value_old.png",
-      "ascent": 29,
-      "type": "bitmap",
-      "chars": [
-        "课"
       ],
       "height": 256
     },
@@ -1713,15 +1668,6 @@
       "height": 256
     },
     {
-      "file": "gamula/ui/gui/enchanting/gui_runes.png",
-      "ascent": 29,
-      "type": "bitmap",
-      "chars": [
-        "퉙"
-      ],
-      "height": 256
-    },
-    {
       "file": "gamula/ui/gui/enchanting/gui_scrap.png",
       "ascent": 29,
       "type": "bitmap",
@@ -1754,15 +1700,6 @@
       "type": "bitmap",
       "chars": [
         "봿"
-      ],
-      "height": 256
-    },
-    {
-      "file": "gamula/ui/gui/enchanting/gui_runes_list.png",
-      "ascent": 29,
-      "type": "bitmap",
-      "chars": [
-        "孿"
       ],
       "height": 256
     },
@@ -2514,10 +2451,10 @@
     {"file":"gamula/titles/tags/valentine/rose.png","ascent":8,"type":"bitmap","chars":["烤"],"height":9},
     {"file":"gamula/titles/tags/valentine/teddybear.png","ascent":8,"type":"bitmap","chars":["烛"],"height":9},
     {"file":"gamula/titles/tags/valentine/wrapped_heart.png","ascent":8,"type":"bitmap","chars":["爆"],"height":9},
-    {"file":"gamula/titles/ranks/title_owner.png","ascent":8,"type":"bitmap","chars":[""],"height":9},
-    {"file":"gamula/titles/ranks/title_developer.png","ascent":8,"type":"bitmap","chars":[""],"height":9},
-    {"file":"gamula/titles/ranks/title_partner.png","ascent":8,"type":"bitmap","chars":["冻"],"height":9},
-    {"file":"gamula/titles/ranks/title_manager.png","ascent":8,"type":"bitmap","chars":["浓"],"height":9},
+    {"file":"gamula/titles/ranks/title_owner.png","ascent":8,"type":"bitmap","chars":[""],"height":8},
+    {"file":"gamula/titles/ranks/title_developer.png","ascent":8,"type":"bitmap","chars":[""],"height":8},
+    {"file":"gamula/titles/ranks/title_partner.png","ascent":8,"type":"bitmap","chars":["冻"],"height":8},
+    {"file":"gamula/titles/ranks/title_manager.png","ascent":8,"type":"bitmap","chars":["浓"],"height":8},
     {"file":"gamula/icons/symbols/symbol_emoji.png","ascent":8,"type":"bitmap","chars":["뮦","뮧","뮨","뮩","뮪","뮫","뮬","뮭","뮮","뮯","뮰","뮱","뮲","뮳","뮴","뮵"],"height":9},
     {"file":"gamula/icons/ranks/title_rank_icon.png","ascent":8,"type":"bitmap","chars":["熊","熟","燕","煮","熬","焦","鿖"],"height":9},
     {"file":"gamula/ui/splits/black_pixel.png","chars":[""],"height":5,"ascent":-5000,"type":"bitmap"},{"ascent":250,"chars":[""],"file":"gamula/ui/splits/black_box.png","height":1500,"type":"bitmap"},{"ascent":10,"chars":[""],"file":"gamula/ui/splits/black_box.png","height":300,"type":"bitmap"},{"ascent":250,"chars":[""],"file":"gamula/ui/splits/black_box_30.png","height":1200,"type":"bitmap"},{"ascent":250,"chars":[""],"file":"gamula/ui/splits/black_box_70.png","height":1200,"type":"bitmap"},{"file":"gamula/ui/splits/pixel_largesplit.png","chars":[""],"height":-3,"ascent":-32768,"type":"bitmap"},{"file":"gamula/ui/splits/pixel_largesplit.png","chars":[""],"height":-4,"ascent":-32678,"type":"bitmap"},{"file":"gamula/ui/splits/pixel_largesplit.png","chars":[""],"height":-5,"ascent":-32768,"type":"bitmap"},{"file":"gamula/ui/splits/pixel_largesplit.png","chars":[""],"height":-6,"ascent":-32768,"type":"bitmap"},{"file":"gamula/ui/splits/pixel_largesplit.png","chars":[""],"height":-7,"ascent":-32768,"type":"bitmap"},{"file":"gamula/ui/splits/pixel_largesplit.png","chars":[""],"height":-8,"ascent":-32768,"type":"bitmap"},{"file":"gamula/ui/splits/pixel_largesplit.png","chars":[""],"height":-9,"ascent":-32768,"type":"bitmap"},{"file":"gamula/ui/splits/pixel_largesplit.png","chars":[""],"height":-10,"ascent":-32768,"type":"bitmap"},{"file":"gamula/ui/splits/pixel_largesplit.png","chars":[""],"height":-18,"ascent":-32768,"type":"bitmap"},{"file":"gamula/ui/splits/pixel_largesplit.png","chars":[""],"height":-34,"ascent":-32768,"type":"bitmap"},{"file":"gamula/ui/splits/pixel_largesplit.png","chars":[""],"height":-66,"ascent":-32768,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":-5,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":-4,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":-5,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":-6,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":-7,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":-8,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":-9,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":-10,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":-18,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":-34,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":-66,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":-130,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":-256,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":-514,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":-1026,"type":"bitmap"},{"ascent":-32770,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":-32770,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":0,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":1,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":2,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":3,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":4,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":5,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":6,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":7,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":15,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":31,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":63,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":127,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":255,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":511,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":1023,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_split.png","height":32767,"type":"bitmap"},{"ascent":-32768,"chars":["ퟣ"],"file":"gamula/ui/splits/pixel_nosplit.png","height":-3,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":-4,"type":"bitmap"},{"ascent":-32768,"chars":["ퟨ"],"file":"gamula/ui/splits/pixel_nosplit.png","height":-5,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":-6,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":-7,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":-8,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":-9,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":-10,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":-18,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":-34,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":-66,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":-130,"type":"bitmap"},{"ascent":-32768,"chars":["ퟡ"],"file":"gamula/ui/splits/pixel_nosplit.png","height":-163,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":-258,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":-514,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":-1026,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":0,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":1,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":2,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":3,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":4,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":5,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":6,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":7,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":15,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":31,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":63,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":127,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":255,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":511,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":1023,"type":"bitmap"},{"ascent":-32768,"chars":[""],"file":"gamula/ui/splits/pixel_nosplit.png","height":32767,"type":"bitmap"}
