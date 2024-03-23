@@ -1210,7 +1210,7 @@
     },
     {
       "file": "gamula/ui/gui/gkits/gui_gkit_main.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "吃"
@@ -1219,7 +1219,7 @@
     },
     {
       "file": "gamula/ui/gui/gkits/gui_gkit_preview.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "说"
