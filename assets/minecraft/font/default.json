@@ -850,7 +850,7 @@
     },
     {
       "file": "gamula/ui/gui/pshop/gui_pshop_main.png",
-      "ascent": 28,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "턗"
@@ -859,7 +859,7 @@
     },
     {
       "file": "gamula/ui/gui/pshop/gui_pshop_storage.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "잻"
@@ -868,7 +868,7 @@
     },
     {
       "file": "gamula/ui/gui/pshop/gui_pshop_mode_shop.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "턙"
@@ -877,7 +877,7 @@
     },
     {
       "file": "gamula/ui/gui/pshop/gui_pshop_mode_display.png",
-      "ascent": 28,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "턘"
@@ -931,7 +931,7 @@
     },
     {
       "file": "gamula/ui/gui/seeds/gui_seeds_menu.png",
-      "ascent": 29,
+      "ascent": 43,
       "type": "bitmap",
       "chars": [
         "朵"
@@ -940,7 +940,7 @@
     },
     {
       "file": "gamula/ui/gui/seeds/gui_seeds_plant.png",
-      "ascent": 29,
+      "ascent": 43,
       "type": "bitmap",
       "chars": [
         "李"
@@ -949,7 +949,7 @@
     },
     {
       "file": "gamula/ui/gui/seeds/gui_seeds_harvest.png",
-      "ascent": 29,
+      "ascent": 43,
       "type": "bitmap",
       "chars": [
         "村"
@@ -958,7 +958,7 @@
     },
     {
       "file": "gamula/ui/gui/seeds/gui_seeds_storage.png",
-      "ascent": 29,
+      "ascent": 43,
       "type": "bitmap",
       "chars": [
         "来"
@@ -1012,7 +1012,7 @@
     },
     {
       "file": "gamula/ui/gui/cosmetics/tags/gui_tags.png",
-      "ascent": 29,
+      "ascent": 43,
       "type": "bitmap",
       "chars": [
         "森"
@@ -1147,7 +1147,7 @@
     },
     {
       "file": "gamula/ui/gui/shop/dealer/gui_dealer.png",
-      "ascent": 29,
+      "ascent": 43,
       "type": "bitmap",
       "chars": [
         "髚"
@@ -1183,7 +1183,7 @@
     },
     {
       "file": "gamula/ui/gui/rewards/gui_streaks.png",
-      "ascent": 29,
+      "ascent": 43,
       "type": "bitmap",
       "chars": [
         "턒"
@@ -1255,7 +1255,7 @@
     },
     {
       "file": "gamula/ui/gui/rewards/gui_timeplayed_milestones.png",
-      "ascent": 28,
+      "ascent": 43,
       "type": "bitmap",
       "chars": [
         "㠏"
@@ -1345,7 +1345,7 @@
     },
     {
       "file": "gamula/ui/gui/robots/gui_robot_menu.png",
-      "ascent": 29,
+      "ascent": 43,
       "type": "bitmap",
       "chars": [
         "算"
@@ -1354,7 +1354,7 @@
     },
     {
       "file": "gamula/ui/gui/robots/gui_robot_upgrade.png",
-      "ascent": 29,
+      "ascent": 43,
       "type": "bitmap",
       "chars": [
         "旦"
@@ -1363,7 +1363,7 @@
     },
     {
       "file": "gamula/ui/gui/robots/gui_robot_settings.png",
-      "ascent": 29,
+      "ascent": 43,
       "type": "bitmap",
       "chars": [
         "早"
@@ -1687,7 +1687,7 @@
     },
     {
       "file": "gamula/ui/gui/help/gui_help_menu.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "爛"
@@ -1705,7 +1705,7 @@
     },
     {
       "file": "gamula/ui/gui/help/gui_help_warps.png",
-      "ascent": 29,
+      "ascent": 43,
       "type": "bitmap",
       "chars": [
         "爝"
@@ -1732,7 +1732,7 @@
     },
     {
       "file": "gamula/ui/gui/help/gui_help_leaderboards.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "爟"
