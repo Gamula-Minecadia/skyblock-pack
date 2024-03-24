@@ -1327,7 +1327,7 @@
     },
     {
       "file": "gamula/ui/gui/skills/gui_skills_top.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "告"
@@ -1336,7 +1336,7 @@
     },
     {
       "file": "gamula/ui/gui/skills/gui_skills_level.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "叫"
