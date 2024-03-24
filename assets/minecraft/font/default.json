@@ -48,7 +48,7 @@
     {
       "type": "bitmap",
       "file": "gamula/icons/scoreboard/ui_logo.png",
-      "ascent": 100,
+      "ascent": 94,
       "height": 128,
       "chars": [
         "权"
@@ -966,8 +966,8 @@
       "height": 256
     },
     {
-      "file": "gamula/ui/gui/shop/mobcoin/gui_mobcoin.png",
-      "ascent": 29,
+      "file": "gamula/ui/gui/shop/mobcoin/gui_tickets.png",
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "误"
