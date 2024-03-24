@@ -1768,7 +1768,7 @@
     },
     {
       "file": "gamula/ui/gui/shop/gui_shop_confirm_btn_sellall.png",
-      "ascent": 30,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "ퟤ"
@@ -1777,7 +1777,7 @@
     },
     {
       "file": "gamula/ui/gui/shop/gui_shop_confirm.png",
-      "ascent": 30,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "ퟥ"
