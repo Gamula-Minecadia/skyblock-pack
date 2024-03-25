@@ -705,15 +705,6 @@
       "type": "bitmap"
     },
     {
-      "ascent": 6,
-      "chars": [
-        "烈"
-      ],
-      "file": "gamula/icons/symbols/symbol_pvpwars_icon.png",
-      "height": 50,
-      "type": "bitmap"
-    },
-    {
       "file": "gamula/ui/gui/islands/boosters/gui_boosters.png",
       "ascent": 47,
       "type": "bitmap",
