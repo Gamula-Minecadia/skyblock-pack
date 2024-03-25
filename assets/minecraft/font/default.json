@@ -588,15 +588,6 @@
       "type": "bitmap"
     },
     {
-      "ascent": 7,
-      "chars": [
-        "㮉"
-      ],
-      "file": "gamula/icons/symbols/symbol_goobits.png",
-      "height": 8,
-      "type": "bitmap"
-    },
-    {
       "ascent": 8,
       "chars": [
         "鍑"
@@ -608,9 +599,27 @@
     {
       "ascent": 6,
       "chars": [
+        "根"
+      ],
+      "file": "gamula/icons/symbols/symbol_ghost_icon.png",
+      "height": 50,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 6,
+      "chars": [
+        "格"
+      ],
+      "file": "gamula/icons/symbols/symbol_plant_icon.png",
+      "height": 50,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 6,
+      "chars": [
         "ꌀ"
       ],
-      "file": "gamula/icons/symbols/symbol_fishing_icon.png",
+      "file": "gamula/icons/symbols/symbol_greenmushroom_icon.png",
       "height": 50,
       "type": "bitmap"
     },
@@ -619,7 +628,7 @@
       "chars": [
         "满"
       ],
-      "file": "gamula/icons/symbols/symbol_cave_icon.png",
+      "file": "gamula/icons/symbols/symbol_redmushroom_icon.png",
       "height": 50,
       "type": "bitmap"
     },
@@ -646,7 +655,7 @@
       "chars": [
         "瀑"
       ],
-      "file": "gamula/icons/symbols/symbol_goobits_icon.png",
+      "file": "gamula/icons/symbols/symbol_gold_icon.png",
       "height": 50,
       "type": "bitmap"
     },
@@ -655,7 +664,7 @@
       "chars": [
         "点"
       ],
-      "file": "gamula/icons/symbols/symbol_info_icon.png",
+      "file": "gamula/icons/symbols/symbol_money_icon.png",
       "height": 50,
       "type": "bitmap"
     },
@@ -673,7 +682,7 @@
       "chars": [
         "热"
       ],
-      "file": "gamula/icons/symbols/symbol_twitter_icon.png",
+      "file": "gamula/icons/symbols/symbol_island_icon.png",
       "height": 50,
       "type": "bitmap"
     },
@@ -700,7 +709,7 @@
       "chars": [
         "恋"
       ],
-      "file": "gamula/icons/symbols/symbol_gingerbread_icon.png",
+      "file": "gamula/icons/symbols/symbol_minecadia_icon.png",
       "height": 50,
       "type": "bitmap"
     },
