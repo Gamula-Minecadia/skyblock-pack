@@ -715,7 +715,7 @@
     },
     {
       "file": "gamula/ui/gui/islands/boosters/gui_boosters.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "喭"
@@ -787,7 +787,7 @@
     },
     {
       "file": "gamula/ui/gui/gui_hub_selector.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "⼡"
@@ -796,7 +796,7 @@
     },
     {
       "file": "gamula/ui/gui/gold/gui_gold_crates.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "⼝"
@@ -841,7 +841,7 @@
     },
     {
       "file": "gamula/ui/gui/gold/gui_gold_selection.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "髙"
@@ -985,7 +985,7 @@
     },
     {
       "file": "gamula/ui/gui/cosmetics/messages/gui_messages.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "롗"
@@ -994,7 +994,7 @@
     },
     {
       "file": "gamula/ui/gui/cosmetics/messages/gui_trails.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "急"
@@ -1003,7 +1003,7 @@
     },
     {
       "file": "gamula/ui/gui/cosmetics/messages/gui_effects.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "怒"
@@ -1021,7 +1021,7 @@
     },
     {
       "file": "gamula/ui/gui/islands/gui_island_creation.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "识"
@@ -1030,7 +1030,7 @@
     },
     {
       "file": "gamula/ui/gui/islands/gui_island_top.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "⼌"
@@ -1039,7 +1039,7 @@
     },
     {
       "file": "gamula/ui/gui/islands/gui_island_menu.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "口"
@@ -1048,7 +1048,7 @@
     },
     {
       "file": "gamula/ui/gui/islands/gui_island_menu_other.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "吹"
@@ -1057,7 +1057,7 @@
     },
     {
       "file": "gamula/ui/gui/islands/gui_island_settings_main.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "回"
@@ -1066,7 +1066,7 @@
     },
     {
       "file": "gamula/ui/gui/islands/gui_island_settings.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "品"
@@ -1075,7 +1075,7 @@
     },
     {
       "file": "gamula/ui/gui/islands/upgrades/gui_island_upgrade_3row.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "ㇰ"
@@ -1084,7 +1084,7 @@
     },
     {
       "file": "gamula/ui/gui/islands/upgrades/gui_island_upgrade_boosters_selection.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "ㇱ"
@@ -1093,7 +1093,7 @@
     },
     {
       "file": "gamula/ui/gui/islands/upgrades/gui_island_upgrade_2row.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "ㇲ"
@@ -1102,7 +1102,7 @@
     },
     {
       "file": "gamula/ui/gui/islands/upgrades/gui_island_upgrade_hoppers.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "七"
@@ -1111,7 +1111,7 @@
     },
     {
       "file": "gamula/ui/gui/islands/upgrades/gui_island_upgrade_1row.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "冷"
@@ -1120,7 +1120,7 @@
     },
     {
       "file": "gamula/ui/gui/islands/upgrades/gui_island_upgrade_selection.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "疜"
@@ -1129,7 +1129,7 @@
     },
     {
       "file": "gamula/ui/gui/profiles/gui_profile_main.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "讲"
@@ -1138,7 +1138,7 @@
     },
     {
       "file": "gamula/ui/gui/skins/gui_skins_menu.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "末"
@@ -1192,7 +1192,7 @@
     },
     {
       "file": "gamula/ui/gui/pvp/gui_outposts.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "ᅬ"
@@ -1201,7 +1201,7 @@
     },
     {
       "file": "gamula/ui/gui/islands/blocks/gui_stacked.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "턖"
@@ -1210,7 +1210,7 @@
     },
     {
       "file": "gamula/ui/gui/islands/blocks/gui_spawner_stacked.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "显"
@@ -1219,7 +1219,7 @@
     },
     {
       "file": "gamula/ui/gui/islands/blocks/gui_spawner_upgrade.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "星"
@@ -1246,7 +1246,7 @@
     },
     {
       "file": "gamula/ui/gui/pet/gui_pet_top.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "풺"
@@ -1696,7 +1696,7 @@
     },
     {
       "file": "gamula/ui/gui/help/gui_help_islands.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "爜"
@@ -1723,7 +1723,7 @@
     },
     {
       "file": "gamula/ui/gui/help/gui_help_comms.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "爞"
