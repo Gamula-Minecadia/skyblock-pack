@@ -1498,7 +1498,7 @@
     },
     {
       "file": "minecadia/ui/gui/crates/gui_crate_opening_crimson.png",
-      "ascent": 28,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "⼏"
