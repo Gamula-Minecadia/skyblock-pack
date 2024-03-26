@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "gamula/cosmetics/sprays/troll"
+        "layer0": "minecadia/cosmetics/sprays/troll"
     }
 }

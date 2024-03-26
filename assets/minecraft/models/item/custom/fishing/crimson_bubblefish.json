@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "gamula/fishing/crimson_bubblefish"
+		"layer0": "minecadia/fishing/crimson_bubblefish"
 	}
 }

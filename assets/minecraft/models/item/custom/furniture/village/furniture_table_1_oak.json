@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/custom/furniture/village/furniture_table_1_default",
 	"textures": {
-		"1": "gamula/furniture/village/furniture_table_1_oak",
-		"particle": "gamula/furniture/village/furniture_table_1"
+		"1": "minecadia/furniture/village/furniture_table_1_oak",
+		"particle": "minecadia/furniture/village/furniture_table_1"
 	},
 	"display": {
 		"fixed": {

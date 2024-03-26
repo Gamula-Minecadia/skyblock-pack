@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "gamula/crops/goldenwatermelon/goldenwatermelonseed_stage_1",
-		"particle": "gamula/crops/goldenwatermelon/goldenwatermelonseed_stage_1"
+		"0": "minecadia/crops/goldenwatermelon/goldenwatermelonseed_stage_1",
+		"particle": "minecadia/crops/goldenwatermelon/goldenwatermelonseed_stage_1"
 	},
 	"elements": [
 		{

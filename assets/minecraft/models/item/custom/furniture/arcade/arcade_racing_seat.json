@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gamula/furniture/arcade/16_arcade_racing_seat_texture",
-		"particle": "gamula/furniture/arcade/16_arcade_racing_seat_texture"
+		"0": "minecadia/furniture/arcade/16_arcade_racing_seat_texture",
+		"particle": "minecadia/furniture/arcade/16_arcade_racing_seat_texture"
 	},
 	"elements": [
 		{

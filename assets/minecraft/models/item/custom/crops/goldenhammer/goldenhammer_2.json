@@ -2,7 +2,7 @@
 	"credit": "gigachad drift baby",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "gamula/crops/goldenhammer/goldenhammer_2"
+		"2": "minecadia/crops/goldenhammer/goldenhammer_2"
 	},
 	"elements": [
 		{

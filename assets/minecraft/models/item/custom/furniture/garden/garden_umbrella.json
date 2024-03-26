@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "gamula/furniture/garden/04_garden_umbrella_texture",
-		"particle": "gamula/furniture/garden/04_garden_umbrella_texture"
+		"0": "minecadia/furniture/garden/04_garden_umbrella_texture",
+		"particle": "minecadia/furniture/garden/04_garden_umbrella_texture"
 	},
 	"elements": [
 		{

@@ -2,8 +2,8 @@
 	"credit": "MadewithBlockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gamula/furniture/carribean/palm_tree_texture",
-		"particle": "gamula/furniture/carribean/palm_tree_texture"
+		"0": "minecadia/furniture/carribean/palm_tree_texture",
+		"particle": "minecadia/furniture/carribean/palm_tree_texture"
 	},
 	"elements": [
 		{

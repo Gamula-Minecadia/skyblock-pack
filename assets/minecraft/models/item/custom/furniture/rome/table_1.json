@@ -2,8 +2,8 @@
 	"credit": "MadewithBlockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "gamula/furniture/rome/19_table_texture",
-		"particle": "gamula/furniture/rome/01_chair_texture"
+		"1": "minecadia/furniture/rome/19_table_texture",
+		"particle": "minecadia/furniture/rome/01_chair_texture"
 	},
 	"elements": [
 		{

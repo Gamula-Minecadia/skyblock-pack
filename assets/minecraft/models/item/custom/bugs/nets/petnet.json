@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gamula/bugs/nets/pet_net",
-		"particle": "gamula/bugs/nets/pet_net"
+		"0": "minecadia/bugs/nets/pet_net",
+		"particle": "minecadia/bugs/nets/pet_net"
 	},
 	"elements": [
 		{

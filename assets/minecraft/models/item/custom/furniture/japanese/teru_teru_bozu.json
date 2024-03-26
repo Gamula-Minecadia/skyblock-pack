@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "gamula/furniture/japanese/teru_teru_bozu",
-		"particle": "gamula/furniture/japanese/teru_teru_bozu"
+		"2": "minecadia/furniture/japanese/teru_teru_bozu",
+		"particle": "minecadia/furniture/japanese/teru_teru_bozu"
 	},
 	"elements": [
 		{

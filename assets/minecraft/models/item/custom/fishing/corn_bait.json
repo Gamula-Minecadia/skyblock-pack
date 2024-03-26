@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "gamula/fishing/corn_bait"
+		"layer0": "minecadia/fishing/corn_bait"
 	}
 }

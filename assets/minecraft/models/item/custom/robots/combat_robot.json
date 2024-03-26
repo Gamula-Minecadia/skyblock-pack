@@ -2,7 +2,7 @@
 	"credit": "gigachad drift baby",
 	"texture_size": [128, 128],
 	"textures": {
-		"3": "gamula/robots/combat_robot"
+		"3": "minecadia/robots/combat_robot"
 	},
 	"elements": [
 		{

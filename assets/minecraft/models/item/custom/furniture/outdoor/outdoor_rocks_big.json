@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "gamula/furniture/outdoor/outdoor_rocks_big",
-		"particle": "gamula/furniture/outdoor/outdoor_rocks_big"
+		"0": "minecadia/furniture/outdoor/outdoor_rocks_big",
+		"particle": "minecadia/furniture/outdoor/outdoor_rocks_big"
 	},
 	"elements": [
 		{

@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gamula/furniture/garden/05_ballon_texture",
-		"1": "gamula/furniture/garden/03_drinking_bowl_texture",
-		"particle": "gamula/furniture/garden/05_ballon_texture"
+		"0": "minecadia/furniture/garden/05_ballon_texture",
+		"1": "minecadia/furniture/garden/03_drinking_bowl_texture",
+		"particle": "minecadia/furniture/garden/05_ballon_texture"
 	},
 	"elements": [
 		{

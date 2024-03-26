@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "gamula/furniture/japanese/japanese_table",
-		"particle": "gamula/furniture/japanese/japanese_table"
+		"1": "minecadia/furniture/japanese/japanese_table",
+		"particle": "minecadia/furniture/japanese/japanese_table"
 	},
 	"elements": [
 		{

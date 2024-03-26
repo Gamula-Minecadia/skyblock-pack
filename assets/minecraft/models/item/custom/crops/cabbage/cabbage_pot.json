@@ -3,9 +3,9 @@
 	"parent": "block/block",
 	"texture_size": [32, 16],
 	"textures": {
-		"0": "gamula/crops/cabbage/cabbage_pot",
+		"0": "minecadia/crops/cabbage/cabbage_pot",
 		"1": "block/farmland",
-		"particle": "gamula/crops/cabbage/cabbage_pot"
+		"particle": "minecadia/crops/cabbage/cabbage_pot"
 	},
 	"elements": [
 		{

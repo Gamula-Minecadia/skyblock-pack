@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [80, 48],
 	"textures": {
-		"0": "gamula/crops/strawberry/strawberry_block",
-		"particle": "gamula/crops/strawberry/strawberry_block"
+		"0": "minecadia/crops/strawberry/strawberry_block",
+		"particle": "minecadia/crops/strawberry/strawberry_block"
 	},
 	"elements": [
 		{

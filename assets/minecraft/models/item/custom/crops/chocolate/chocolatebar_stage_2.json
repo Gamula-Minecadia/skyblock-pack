@@ -2,8 +2,8 @@
 	"credit": "gigachad drift baby",
 	"texture_size": [24, 24],
 	"textures": {
-		"0": "gamula/crops/chocolate/chocolatebar_stage_2",
-		"particle": "gamula/crops/chocolate/chocolatebar_stage_2"
+		"0": "minecadia/crops/chocolate/chocolatebar_stage_2",
+		"particle": "minecadia/crops/chocolate/chocolatebar_stage_2"
 	},
 	"elements": [
 		{

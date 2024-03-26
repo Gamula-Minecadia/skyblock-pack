@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"texture_size": [80, 48],
 	"textures": {
-		"0": "gamula/crops/banana/banana_block",
-		"particle": "gamula/crops/banana/banana_block"
+		"0": "minecadia/crops/banana/banana_block",
+		"particle": "minecadia/crops/banana/banana_block"
 	},
 	"elements": [
 		{

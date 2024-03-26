@@ -2,12 +2,12 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gamula/crops/crate/tree",
-		"1": "gamula/keys/crystal_crate_key_texture",
-		"2": "gamula/keys/crimson_crate_key_texture",
-		"5": "gamula/keys/void_crate_key_texture",
-		"6": "gamula/keys/magma_crate_key_texture",
-		"particle": "gamula/keys/magma_crate_key_texture"
+		"0": "minecadia/crops/crate/tree",
+		"1": "minecadia/keys/crystal_crate_key_texture",
+		"2": "minecadia/keys/crimson_crate_key_texture",
+		"5": "minecadia/keys/void_crate_key_texture",
+		"6": "minecadia/keys/magma_crate_key_texture",
+		"particle": "minecadia/keys/magma_crate_key_texture"
 	},
 	"elements": [
 		{

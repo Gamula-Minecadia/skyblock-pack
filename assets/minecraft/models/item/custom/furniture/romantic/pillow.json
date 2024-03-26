@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "gamula/furniture/romantic/pillow",
-		"particle": "gamula/furniture/romantic/pillow"
+		"1": "minecadia/furniture/romantic/pillow",
+		"particle": "minecadia/furniture/romantic/pillow"
 	},
 	"elements": [
 		{

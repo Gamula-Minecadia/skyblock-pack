@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gamula/furniture/arcade/10_arcade_sign_texture",
-		"1": "gamula/furniture/arcade/10_animation_texture-sheet",
-		"particle": "gamula/furniture/arcade/10_arcade_sign_texture"
+		"0": "minecadia/furniture/arcade/10_arcade_sign_texture",
+		"1": "minecadia/furniture/arcade/10_animation_texture-sheet",
+		"particle": "minecadia/furniture/arcade/10_arcade_sign_texture"
 	},
 	"elements": [
 		{

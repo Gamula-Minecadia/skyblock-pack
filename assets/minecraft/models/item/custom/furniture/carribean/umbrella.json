@@ -2,8 +2,8 @@
 	"credit": "MadewithBlockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "gamula/furniture/carribean/umbrella_texture",
-		"particle": "gamula/furniture/carribean/umbrella_texture"
+		"0": "minecadia/furniture/carribean/umbrella_texture",
+		"particle": "minecadia/furniture/carribean/umbrella_texture"
 	},
 	"elements": [
 		{

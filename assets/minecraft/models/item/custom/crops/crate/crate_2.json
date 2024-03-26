@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "gamula/crops/crate/tree",
-		"1": "gamula/crops/crate/key",
-		"particle": "gamula/crops/crate/tree"
+		"0": "minecadia/crops/crate/tree",
+		"1": "minecadia/crops/crate/key",
+		"particle": "minecadia/crops/crate/tree"
 	},
 	"elements": [
 		{

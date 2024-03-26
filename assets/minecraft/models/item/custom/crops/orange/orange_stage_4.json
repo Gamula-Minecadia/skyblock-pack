@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [80, 48],
 	"textures": {
-		"0": "gamula/crops/orange/orange_block",
-		"particle": "gamula/crops/orange/orange_block"
+		"0": "minecadia/crops/orange/orange_block",
+		"particle": "minecadia/crops/orange/orange_block"
 	},
 	"elements": [
 		{

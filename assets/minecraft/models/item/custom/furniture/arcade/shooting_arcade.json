@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "gamula/furniture/arcade/19_shooting_arcade_texture",
-		"1": "gamula/furniture/arcade/19_animation_texture-sheet",
-		"particle": "gamula/furniture/arcade/19_shooting_arcade_texture"
+		"0": "minecadia/furniture/arcade/19_shooting_arcade_texture",
+		"1": "minecadia/furniture/arcade/19_animation_texture-sheet",
+		"particle": "minecadia/furniture/arcade/19_shooting_arcade_texture"
 	},
 	"elements": [
 		{

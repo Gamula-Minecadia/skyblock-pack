@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [80, 48],
 	"textures": {
-		"0": "gamula/crops/lemon/lemon_block",
-		"particle": "gamula/crops/lemon/lemon_block"
+		"0": "minecadia/crops/lemon/lemon_block",
+		"particle": "minecadia/crops/lemon/lemon_block"
 	},
 	"elements": [
 		{

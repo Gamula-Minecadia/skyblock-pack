@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gamula/furniture/garden/14_fan_texture",
-		"particle": "gamula/furniture/garden/14_fan_texture"
+		"0": "minecadia/furniture/garden/14_fan_texture",
+		"particle": "minecadia/furniture/garden/14_fan_texture"
 	},
 	"elements": [
 		{

@@ -1,1 +1,1 @@
-{"parent":"block/cube_all","textures":{"all":"gamula/blocks/orange_ore","particles":"gamula/blocks/orange_ore"}}
+{"parent":"block/cube_all","textures":{"all":"minecadia/blocks/orange_ore","particles":"minecadia/blocks/orange_ore"}}

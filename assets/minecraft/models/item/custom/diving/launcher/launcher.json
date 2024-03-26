@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gamula/diving/launcher",
-		"particle": "gamula/diving/launcher"
+		"0": "minecadia/diving/launcher",
+		"particle": "minecadia/diving/launcher"
 	},
 	"elements": [
 		{

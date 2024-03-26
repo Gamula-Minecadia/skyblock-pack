@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "gamula/bugs/centipede"
+    "layer0": "minecadia/bugs/centipede"
   }
 }

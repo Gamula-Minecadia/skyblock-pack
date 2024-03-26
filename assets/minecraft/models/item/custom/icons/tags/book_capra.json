@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "gamula/titles/tags/misc/book_capra"
+        "layer0": "minecadia/titles/tags/misc/book_capra"
     }
 }

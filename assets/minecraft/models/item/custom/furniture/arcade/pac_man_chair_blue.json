@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "gamula/furniture/arcade/08_pac_man_chair_blue_texture",
-		"particle": "gamula/furniture/arcade/08_pac_man_chair_blue_texture"
+		"0": "minecadia/furniture/arcade/08_pac_man_chair_blue_texture",
+		"particle": "minecadia/furniture/arcade/08_pac_man_chair_blue_texture"
 	},
 	"elements": [
 		{

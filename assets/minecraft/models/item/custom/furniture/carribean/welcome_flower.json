@@ -2,8 +2,8 @@
 	"credit": "MadewithBlockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gamula/furniture/carribean/welcome_flower_texture",
-		"particle": "gamula/furniture/carribean/welcome_flower_texture"
+		"0": "minecadia/furniture/carribean/welcome_flower_texture",
+		"particle": "minecadia/furniture/carribean/welcome_flower_texture"
 	},
 	"elements": [
 		{

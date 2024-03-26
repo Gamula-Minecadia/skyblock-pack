@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "gamula/cosmetics/sprays/knuckles"
+        "layer0": "minecadia/cosmetics/sprays/knuckles"
     }
 }

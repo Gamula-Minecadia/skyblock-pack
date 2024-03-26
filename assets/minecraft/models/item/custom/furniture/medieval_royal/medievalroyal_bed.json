@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [256, 256],
 	"textures": {
-		"2": "gamula/furniture/medieval_royal/medievalroyal_bed",
-		"particle": "gamula/furniture/medieval_royal/medievalroyal_bed"
+		"2": "minecadia/furniture/medieval_royal/medievalroyal_bed",
+		"particle": "minecadia/furniture/medieval_royal/medievalroyal_bed"
 	},
 	"elements": [
 		{

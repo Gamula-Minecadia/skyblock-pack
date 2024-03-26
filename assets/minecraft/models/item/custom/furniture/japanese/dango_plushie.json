@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "gamula/furniture/japanese/dango_plushie",
-		"particle": "gamula/furniture/japanese/dango_plushie"
+		"2": "minecadia/furniture/japanese/dango_plushie",
+		"particle": "minecadia/furniture/japanese/dango_plushie"
 	},
 	"elements": [
 		{

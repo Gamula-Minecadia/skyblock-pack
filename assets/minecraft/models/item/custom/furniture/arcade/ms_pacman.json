@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "gamula/furniture/arcade/11_ms",
-		"1": "gamula/furniture/arcade/11_animation_texture-sheet",
-		"2": "gamula/furniture/arcade/11_animation_texture-sheet_01",
-		"particle": "gamula/furniture/arcade/11_ms"
+		"0": "minecadia/furniture/arcade/11_ms",
+		"1": "minecadia/furniture/arcade/11_animation_texture-sheet",
+		"2": "minecadia/furniture/arcade/11_animation_texture-sheet_01",
+		"particle": "minecadia/furniture/arcade/11_ms"
 	},
 	"elements": [
 		{

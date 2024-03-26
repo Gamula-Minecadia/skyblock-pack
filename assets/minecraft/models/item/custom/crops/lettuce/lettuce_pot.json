@@ -3,9 +3,9 @@
 	"parent": "block/block",
 	"texture_size": [32, 16],
 	"textures": {
-		"0": "gamula/crops/lettuce/lettuce_pot",
+		"0": "minecadia/crops/lettuce/lettuce_pot",
 		"1": "block/farmland",
-		"particle": "gamula/crops/lettuce/lettuce_pot"
+		"particle": "minecadia/crops/lettuce/lettuce_pot"
 	},
 	"elements": [
 		{

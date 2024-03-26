@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "gamula/cosmetics/props/sparkler",
-		"1": "gamula/cosmetics/props/sparkler_effect",
-		"particle": "gamula/cosmetics/props/sparkler"
+		"0": "minecadia/cosmetics/props/sparkler",
+		"1": "minecadia/cosmetics/props/sparkler_effect",
+		"particle": "minecadia/cosmetics/props/sparkler"
 	},
 	"elements": [
 		{

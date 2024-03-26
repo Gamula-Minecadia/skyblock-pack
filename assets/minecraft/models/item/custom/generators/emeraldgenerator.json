@@ -2,9 +2,9 @@
 	"credit": "gigachad drift baby",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "gamula/generators/emeraldgenerator",
-		"1": "gamula/generators/generator_smoke",
-		"particle": "gamula/generators/emeraldgenerator"
+		"0": "minecadia/generators/emeraldgenerator",
+		"1": "minecadia/generators/generator_smoke",
+		"particle": "minecadia/generators/emeraldgenerator"
 	},
 	"elements": [
 		{

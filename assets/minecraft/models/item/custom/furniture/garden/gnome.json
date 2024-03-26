@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "gamula/furniture/garden/09_gnome_texture",
-		"particle": "gamula/furniture/garden/09_gnome_texture"
+		"1": "minecadia/furniture/garden/09_gnome_texture",
+		"particle": "minecadia/furniture/garden/09_gnome_texture"
 	},
 	"elements": [
 		{

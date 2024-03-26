@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "gamula/furniture/medieval_royal/medievalroyal_painting_2x1",
-		"particle": "gamula/furniture/medieval_royal/medievalroyal_painting_2x1"
+		"0": "minecadia/furniture/medieval_royal/medievalroyal_painting_2x1",
+		"particle": "minecadia/furniture/medieval_royal/medievalroyal_painting_2x1"
 	},
 	"elements": [
 		{

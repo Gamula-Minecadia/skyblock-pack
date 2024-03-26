@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gamula/crops/lighthouse/lighthouse",
-		"1": "gamula/crops/lighthouse/lightning3",
-		"particle": "gamula/crops/lighthouse/lighthouse"
+		"0": "minecadia/crops/lighthouse/lighthouse",
+		"1": "minecadia/crops/lighthouse/lightning3",
+		"particle": "minecadia/crops/lighthouse/lighthouse"
 	},
 	"elements": [
 		{

@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "gamula/titles/tags/spring/sprout"
+        "layer0": "minecadia/titles/tags/spring/sprout"
     }
 }

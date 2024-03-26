@@ -2,8 +2,8 @@
 	"credit": "MadewithBlockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gamula/furniture/rome/03_foot_stand_texture",
-		"particle": "gamula/furniture/rome/03_foot_stand_texture"
+		"0": "minecadia/furniture/rome/03_foot_stand_texture",
+		"particle": "minecadia/furniture/rome/03_foot_stand_texture"
 	},
 	"elements": [
 		{

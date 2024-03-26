@@ -2,8 +2,8 @@
 	"credit": "MadewithBlockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gamula/furniture/carribean/swim_ring_decoration_texture",
-		"particle": "gamula/furniture/carribean/swim_ring_decoration_texture"
+		"0": "minecadia/furniture/carribean/swim_ring_decoration_texture",
+		"particle": "minecadia/furniture/carribean/swim_ring_decoration_texture"
 	},
 	"elements": [
 		{

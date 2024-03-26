@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "gamula/sprays/perrytheplatypus"
+        "layer0": "minecadia/sprays/perrytheplatypus"
     }
 }

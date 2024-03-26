@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"white": "gamula/discord/white",
-		"light": "gamula/discord/1",
-		"dark": "gamula/discord/2"
+		"white": "minecadia/discord/white",
+		"light": "minecadia/discord/1",
+		"dark": "minecadia/discord/2"
 	},
 	"elements": [
 		{

@@ -2,8 +2,8 @@
 	"credit": "MadewithBlockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gamula/furniture/carribean/aquatrikes_texture",
-		"particle": "gamula/furniture/carribean/aquatrikes_texture"
+		"0": "minecadia/furniture/carribean/aquatrikes_texture",
+		"particle": "minecadia/furniture/carribean/aquatrikes_texture"
 	},
 	"elements": [
 		{

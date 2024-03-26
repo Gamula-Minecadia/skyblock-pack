@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "gamula/furniture/modern/modern_wardrobe",
-		"particle": "gamula/furniture/modern/modern_wardrobe"
+		"0": "minecadia/furniture/modern/modern_wardrobe",
+		"particle": "minecadia/furniture/modern/modern_wardrobe"
 	},
 	"elements": [
 		{

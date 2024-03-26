@@ -2,7 +2,7 @@
 	"credit": "gigachad drift baby",
 	"texture_size": [128, 128],
 	"textures": {
-		"3": "gamula/robots/farming_robot"
+		"3": "minecadia/robots/farming_robot"
 	},
 	"elements": [
 		{

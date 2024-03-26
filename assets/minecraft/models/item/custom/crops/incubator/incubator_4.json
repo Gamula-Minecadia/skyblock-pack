@@ -2,7 +2,7 @@
 	"credit": "gigachad drift baby",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "gamula/crops/incubator/inc"
+		"1": "minecadia/crops/incubator/inc"
 	},
 	"elements": [
 		{

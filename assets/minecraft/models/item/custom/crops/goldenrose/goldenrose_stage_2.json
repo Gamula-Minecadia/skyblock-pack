@@ -1,8 +1,8 @@
 {
 	"credit": "gigachad drift baby",
 	"textures": {
-		"0": "gamula/crops/goldenrose/goldenrose_stage_2",
-		"particle": "gamula/crops/goldenrose/goldenrose_stage_2"
+		"0": "minecadia/crops/goldenrose/goldenrose_stage_2",
+		"particle": "minecadia/crops/goldenrose/goldenrose_stage_2"
 	},
 	"elements": [
 		{

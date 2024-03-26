@@ -3,8 +3,8 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"2": "modelengine:entity/bug_display",
-		"7": "gamula/bugs/butterflies/butterfly_white",
-		"particle": "gamula/bugs/butterflies/butterfly_blue"
+		"7": "minecadia/bugs/butterflies/butterfly_white",
+		"particle": "minecadia/bugs/butterflies/butterfly_blue"
 	},
 	"elements": [
 		{

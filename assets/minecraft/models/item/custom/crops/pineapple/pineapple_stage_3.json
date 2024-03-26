@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [80, 48],
 	"textures": {
-		"0": "gamula/crops/pineapple/pineapple_blocks",
-		"particle": "gamula/crops/pineapple/pineapple_blocks"
+		"0": "minecadia/crops/pineapple/pineapple_blocks",
+		"particle": "minecadia/crops/pineapple/pineapple_blocks"
 	},
 	"elements": [
 		{

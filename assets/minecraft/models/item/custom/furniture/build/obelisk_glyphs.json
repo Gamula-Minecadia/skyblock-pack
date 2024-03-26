@@ -2,8 +2,8 @@
 	"credit": "gigachad drift baby",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "gamula/furniture/build/obelisk_glyphs",
-		"particle": "gamula/furniture/build/obelisk_glyphs"
+		"0": "minecadia/furniture/build/obelisk_glyphs",
+		"particle": "minecadia/furniture/build/obelisk_glyphs"
 	},
 	"elements": [
 		{

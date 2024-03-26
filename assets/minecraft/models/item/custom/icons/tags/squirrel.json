@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "gamula/titles/tags/spongebob/squirrel"
+		"layer0": "minecadia/titles/tags/spongebob/squirrel"
 	},
 	"display": {
 		"gui": {

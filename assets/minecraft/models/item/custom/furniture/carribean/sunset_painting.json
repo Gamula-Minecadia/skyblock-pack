@@ -2,8 +2,8 @@
 	"credit": "MadewithBlockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gamula/furniture/carribean/sunset_painting_texture",
-		"particle": "gamula/furniture/carribean/sunset_painting_texture"
+		"0": "minecadia/furniture/carribean/sunset_painting_texture",
+		"particle": "minecadia/furniture/carribean/sunset_painting_texture"
 	},
 	"elements": [
 		{

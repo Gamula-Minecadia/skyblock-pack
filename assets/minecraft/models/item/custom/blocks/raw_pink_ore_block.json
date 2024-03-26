@@ -1,1 +1,1 @@
-{"parent":"block/cube_all","textures":{"all":"gamula/blocks/raw_pink_ore_block","particles":"gamula/blocks/raw_pink_ore_block"}}
+{"parent":"block/cube_all","textures":{"all":"minecadia/blocks/raw_pink_ore_block","particles":"minecadia/blocks/raw_pink_ore_block"}}

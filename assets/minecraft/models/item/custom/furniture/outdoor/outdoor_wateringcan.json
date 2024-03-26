@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gamula/furniture/outdoor/outdoor_wateringcan",
-		"particle": "gamula/furniture/outdoor/outdoor_wateringcan"
+		"0": "minecadia/furniture/outdoor/outdoor_wateringcan",
+		"particle": "minecadia/furniture/outdoor/outdoor_wateringcan"
 	},
 	"elements": [
 		{

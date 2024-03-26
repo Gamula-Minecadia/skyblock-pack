@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [80, 48],
 	"textures": {
-		"0": "gamula/crops/cabbage/cabbage_block",
-		"particle": "gamula/crops/cabbage/cabbage_block"
+		"0": "minecadia/crops/cabbage/cabbage_block",
+		"particle": "minecadia/crops/cabbage/cabbage_block"
 	},
 	"elements": [
 		{

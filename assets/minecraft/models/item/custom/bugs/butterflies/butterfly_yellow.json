@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"6": "gamula/bugs/butterflies/butterfly_yellow",
-		"particle": "gamula/bugs/butterflies/butterfly_blue"
+		"6": "minecadia/bugs/butterflies/butterfly_yellow",
+		"particle": "minecadia/bugs/butterflies/butterfly_blue"
 	},
 	"elements": [
 		{

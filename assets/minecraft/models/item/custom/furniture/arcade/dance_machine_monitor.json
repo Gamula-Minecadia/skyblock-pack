@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "gamula/furniture/arcade/13_dance_machine_monitor_texture",
-		"1": "gamula/furniture/arcade/13_animation_texture-sheet",
-		"particle": "gamula/furniture/arcade/13_dance_machine_monitor_texture"
+		"0": "minecadia/furniture/arcade/13_dance_machine_monitor_texture",
+		"1": "minecadia/furniture/arcade/13_animation_texture-sheet",
+		"particle": "minecadia/furniture/arcade/13_dance_machine_monitor_texture"
 	},
 	"elements": [
 		{

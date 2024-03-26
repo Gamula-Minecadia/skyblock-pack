@@ -3,9 +3,9 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "modelengine:entity/bubble_balloon",
-		"2": "gamula/crops/bubble/base",
-		"3": "gamula/crops/bubble/bubbles",
-		"particle": "gamula/crops/bubble/base"
+		"2": "minecadia/crops/bubble/base",
+		"3": "minecadia/crops/bubble/bubbles",
+		"particle": "minecadia/crops/bubble/base"
 	},
 	"elements": [
 		{

@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "gamula/titles/tags/spongebob/squid"
+		"layer0": "minecadia/titles/tags/spongebob/squid"
 	},
 	"display": {
 		"gui": {

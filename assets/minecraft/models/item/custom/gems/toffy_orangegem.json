@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "gamula/gems/toffy_orangegem",
-		"1": "gamula/gems/toffy_orangegemanim",
-		"particle": "gamula/gems/toffy_orangegemanim"
+		"0": "minecadia/gems/toffy_orangegem",
+		"1": "minecadia/gems/toffy_orangegemanim",
+		"particle": "minecadia/gems/toffy_orangegemanim"
 	},
 	"elements": [
 		{

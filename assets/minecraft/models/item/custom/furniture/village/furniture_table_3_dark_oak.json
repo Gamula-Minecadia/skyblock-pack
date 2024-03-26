@@ -2,8 +2,8 @@
 	"credit": "gigachad drift baby",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "gamula/furniture/village/furniture_table_1_dark_oak",
-		"particle": "gamula/furniture/village/furniture_table_1_dark_oak"
+		"1": "minecadia/furniture/village/furniture_table_1_dark_oak",
+		"particle": "minecadia/furniture/village/furniture_table_1_dark_oak"
 	},
 	"elements": [
 		{

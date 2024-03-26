@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "gamula/fishing/catfish"
+		"layer0": "minecadia/fishing/catfish"
 	}
 }

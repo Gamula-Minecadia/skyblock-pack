@@ -1,1 +1,1 @@
-{"parent":"block/cube_all","textures":{"all":"gamula/blocks/yellow_ore_block","particles":"gamula/blocks/yellow_ore_block"}}
+{"parent":"block/cube_all","textures":{"all":"minecadia/blocks/yellow_ore_block","particles":"minecadia/blocks/yellow_ore_block"}}

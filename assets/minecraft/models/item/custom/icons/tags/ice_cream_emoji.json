@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "gamula/titles/tags/summer/ice_cream_emoji"
+        "layer0": "minecadia/titles/tags/summer/ice_cream_emoji"
     }
 }

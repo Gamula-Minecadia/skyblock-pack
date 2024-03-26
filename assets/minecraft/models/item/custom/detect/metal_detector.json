@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "gamula/detect/metal_detector",
-		"particle": "gamula/detect/metal_detector"
+		"0": "minecadia/detect/metal_detector",
+		"particle": "minecadia/detect/metal_detector"
 	},
 	"elements": [
 		{

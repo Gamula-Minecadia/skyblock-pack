@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "gamula/fishing/obsidian_fish"
+		"layer0": "minecadia/fishing/obsidian_fish"
 	}
 }

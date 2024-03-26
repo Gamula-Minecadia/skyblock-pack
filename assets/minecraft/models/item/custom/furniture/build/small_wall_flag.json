@@ -2,8 +2,8 @@
 	"credit": "gigachad drift baby",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gamula/furniture/build/small_wall_flag",
-		"particle": "gamula/furniture/build/small_wall_flag"
+		"0": "minecadia/furniture/build/small_wall_flag",
+		"particle": "minecadia/furniture/build/small_wall_flag"
 	},
 	"elements": [
 		{

@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gamula/furniture/arcade/17_king_of_hammer_texture",
-		"1": "gamula/furniture/arcade/17_animation_texture-sheet",
-		"2": "gamula/furniture/arcade/17_animation_texture-sheet_01",
-		"3": "gamula/furniture/arcade/17_animation_texture-sheet_02",
-		"particle": "gamula/furniture/arcade/17_king_of_hammer_texture"
+		"0": "minecadia/furniture/arcade/17_king_of_hammer_texture",
+		"1": "minecadia/furniture/arcade/17_animation_texture-sheet",
+		"2": "minecadia/furniture/arcade/17_animation_texture-sheet_01",
+		"3": "minecadia/furniture/arcade/17_animation_texture-sheet_02",
+		"particle": "minecadia/furniture/arcade/17_king_of_hammer_texture"
 	},
 	"elements": [
 		{

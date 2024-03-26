@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "gamula/furniture/japanese/japanese_floor_lamp",
-		"particle": "gamula/furniture/japanese/japanese_floor_lamp"
+		"1": "minecadia/furniture/japanese/japanese_floor_lamp",
+		"particle": "minecadia/furniture/japanese/japanese_floor_lamp"
 	},
 	"elements": [
 		{

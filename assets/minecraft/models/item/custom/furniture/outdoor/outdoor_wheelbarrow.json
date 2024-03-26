@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"1": "gamula/furniture/outdoor/outdoor_wheelbarrow",
-		"particle": "gamula/furniture/outdoor/outdoor_wheelbarrow"
+		"1": "minecadia/furniture/outdoor/outdoor_wheelbarrow",
+		"particle": "minecadia/furniture/outdoor/outdoor_wheelbarrow"
 	},
 	"elements": [
 		{

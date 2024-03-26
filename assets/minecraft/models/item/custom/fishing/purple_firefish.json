@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "gamula/fishing/purple_firefish"
+		"layer0": "minecadia/fishing/purple_firefish"
 	}
 }

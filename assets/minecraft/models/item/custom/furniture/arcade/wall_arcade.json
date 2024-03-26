@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gamula/furniture/arcade/01_wall_arcade_texture",
-		"particle": "gamula/furniture/arcade/01_wall_arcade_texture"
+		"0": "minecadia/furniture/arcade/01_wall_arcade_texture",
+		"particle": "minecadia/furniture/arcade/01_wall_arcade_texture"
 	},
 	"elements": [
 		{

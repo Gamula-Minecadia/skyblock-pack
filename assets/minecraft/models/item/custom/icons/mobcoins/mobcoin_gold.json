@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "gamula/icons/mobcoins/mobcoin_gold"
+        "layer0": "minecadia/icons/mobcoins/mobcoin_gold"
     }
 }

@@ -2,9 +2,9 @@
 	"credit": "MadewithBlockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gamula/furniture/carribean/plant_desk_texture",
-		"1": "gamula/furniture/carribean/coconut_set_texture",
-		"particle": "gamula/furniture/carribean/plant_desk_texture"
+		"0": "minecadia/furniture/carribean/plant_desk_texture",
+		"1": "minecadia/furniture/carribean/coconut_set_texture",
+		"particle": "minecadia/furniture/carribean/plant_desk_texture"
 	},
 	"elements": [
 		{

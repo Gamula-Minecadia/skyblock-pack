@@ -2,8 +2,8 @@
 	"credit": "MadewithBlockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gamula/furniture/rome/06_spartan_shield_texture",
-		"particle": "gamula/furniture/rome/06_spartan_shield_texture"
+		"0": "minecadia/furniture/rome/06_spartan_shield_texture",
+		"particle": "minecadia/furniture/rome/06_spartan_shield_texture"
 	},
 	"elements": [
 		{

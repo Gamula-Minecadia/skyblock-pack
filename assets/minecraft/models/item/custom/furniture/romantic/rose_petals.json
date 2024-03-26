@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "gamula/furniture/romantic/petals",
-		"1": "gamula/furniture/romantic/petals2",
-		"particle":"gamula/furniture/romantic/petals"
+		"0": "minecadia/furniture/romantic/petals",
+		"1": "minecadia/furniture/romantic/petals2",
+		"particle":"minecadia/furniture/romantic/petals"
 	},
 	"elements": [
 		{
