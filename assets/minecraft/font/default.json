@@ -759,33 +759,6 @@
       "height": 256
     },
     {
-      "file": "minecadia/ui/gui/gui_shop_testing.png",
-      "ascent": 47,
-      "type": "bitmap",
-      "chars": [
-        "锅"
-      ],
-      "height": 256
-    },
-    {
-      "file": "minecadia/ui/gui/gui_cosmetics_testing.png",
-      "ascent": 43,
-      "type": "bitmap",
-      "chars": [
-        "锐"
-      ],
-      "height": 256
-    },
-    {
-      "file": "minecadia/ui/gui/gui_crates_testing.png",
-      "ascent": 47,
-      "type": "bitmap",
-      "chars": [
-        "锈"
-      ],
-      "height": 256
-    },
-    {
       "file": "minecadia/ui/gui/gui_hub_selector.png",
       "ascent": 47,
       "type": "bitmap",
