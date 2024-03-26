@@ -1444,7 +1444,7 @@
     },
     {
       "file": "minecadia/ui/gui/crates/gui_crate_opening_console.png",
-      "ascent": 28,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "⼒"
@@ -1453,7 +1453,7 @@
     },
     {
       "file": "minecadia/ui/gui/crates/gui_crate_opening_claw.png",
-      "ascent": 28,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "⼓"
@@ -1462,7 +1462,7 @@
     },
     {
       "file": "minecadia/ui/gui/crates/gui_crate_preview_arcade.png",
-      "ascent": 28,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "⼔"
@@ -1471,7 +1471,7 @@
     },
     {
       "file": "minecadia/ui/gui/crates/gui_crate_preview_console.png",
-      "ascent": 28,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "⼗"
@@ -1480,7 +1480,7 @@
     },
     {
       "file": "minecadia/ui/gui/crates/gui_crate_preview_claw.png",
-      "ascent": 28,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "⼘"
