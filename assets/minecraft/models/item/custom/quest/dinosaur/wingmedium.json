@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "custom/elitecreatures/dinosaurs/wingmedium"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -49.25, -86],
+			"translation": [1.5, 2.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -49.25, -86],
+			"translation": [1.5, 2.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"rotation": [3.71, -1.11, -33.23],
+			"translation": [0, 3.75, 0],
+			"scale": [0.7, 0.7, 0.7]
+		}
+	}
+}
