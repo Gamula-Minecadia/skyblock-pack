@@ -4,5 +4,7 @@
         "layer0": "item/netherite_sword"
     },
     "overrides": [
+        {"predicate": {"custom_model_data": 2}, "model": "item/custom/sets/arcade_blue/arcadehero_sword"},
+        {"predicate": {"custom_model_data": 3}, "model": "item/custom/sets/arcade_green/arcadehero_sword"}
     ]
 }

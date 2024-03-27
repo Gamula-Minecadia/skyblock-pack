@@ -5,5 +5,7 @@
         "layer1": "item/leather_chestplate_overlay"
     },
     "overrides": [
+        {"predicate": {"custom_model_data": 2}, "model": "item/custom/sets/arcade_blue/arcadehero_chestplate"},
+        {"predicate": {"custom_model_data": 3}, "model": "item/custom/sets/arcade_green/arcadehero_chestplate"}
     ]
 }
