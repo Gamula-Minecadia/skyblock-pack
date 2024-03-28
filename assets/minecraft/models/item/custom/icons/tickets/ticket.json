@@ -2,7 +2,7 @@
 	"credit": "gigachad drift baby",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "minecadia/icons/mobcoins/ticket"
+		"layer0": "minecadia/icons/tickets/ticket"
 	},
 	"gui_light": "front",
 	"display": {
