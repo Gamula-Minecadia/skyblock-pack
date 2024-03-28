@@ -1,0 +1,32 @@
+{
+	"credit": "gigachad drift baby",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecadia/icons/ranks/title_cheat_icon"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 1.75, 0.75],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 1.75, 0.75],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [-29.5, 0, 0],
+			"translation": [1.75, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-29.5, 0, 0],
+			"translation": [1.75, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"translation": [-0.5, -0.5, 0],
+			"scale": [1.3, 1.3, 1.3]
+		}
+	}
+}
