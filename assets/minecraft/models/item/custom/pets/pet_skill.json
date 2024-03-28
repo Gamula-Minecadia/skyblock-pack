@@ -828,13 +828,6 @@
 					]
 				}
 			]
-		},
-		{
-			"name": "hitbox",
-			"origin": [-9, 15, 19],
-			"color": 0,
-			"nbt": "{}",
-			"children": [51]
 		}
 	]
 }

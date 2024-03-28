@@ -942,13 +942,6 @@
 					]
 				}
 			]
-		},
-		{
-			"name": "hitbox",
-			"origin": [-8, 18, 23],
-			"color": 0,
-			"nbt": "{}",
-			"children": [52]
 		}
 	]
 }

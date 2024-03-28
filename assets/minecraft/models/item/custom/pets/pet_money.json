@@ -542,20 +542,6 @@
 					]
 				}
 			]
-		},
-		{
-			"name": "hitbox",
-			"origin": [-9, 14.5, 23.75],
-			"color": 0,
-			"nbt": "{}",
-			"children": [26]
-		},
-		{
-			"name": "tag_name",
-			"origin": [-8.9, 14.5, 24.65],
-			"color": 0,
-			"nbt": "{}",
-			"children": []
 		}
 	]
 }
