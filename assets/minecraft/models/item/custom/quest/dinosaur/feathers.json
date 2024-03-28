@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "custom/elitecreatures/dinosaurs/feathers_as_trophies"
+		"layer0": "minecadia/quest/dinosaur/feathers_as_trophies"
 	},
 	"display": {
 		"thirdperson_righthand": {

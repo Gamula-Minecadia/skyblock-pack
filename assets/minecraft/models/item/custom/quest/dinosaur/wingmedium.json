@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "custom/elitecreatures/dinosaurs/wingmedium"
+		"layer0": "minecadia/quest/dinosaur/wingmedium"
 	},
 	"display": {
 		"thirdperson_righthand": {

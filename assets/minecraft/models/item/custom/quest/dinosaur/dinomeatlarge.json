@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "custom/elitecreatures/dinosaurs/dinomeatlarge"
+		"layer0": "minecadia/quest/dinosaur/dinomeatlarge"
 	},
 	"display": {
 		"thirdperson_righthand": {

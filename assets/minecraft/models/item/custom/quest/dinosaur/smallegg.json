@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "custom/elitecreatures/dinosaurs/egg_small",
-		"particle": "custom/elitecreatures/dinosaurs/egg_small"
+		"0": "minecadia/quest/dinosaur/egg_small",
+		"particle": "minecadia/quest/dinosaur/egg_small"
 	},
 	"elements": [
 		{

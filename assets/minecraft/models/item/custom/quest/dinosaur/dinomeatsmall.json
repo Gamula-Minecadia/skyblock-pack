@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "custom/elitecreatures/dinosaurs/dinomeatsmall"
+		"layer0": "minecadia/quest/dinosaur/dinomeatsmall"
 	},
 	"display": {
 		"thirdperson_righthand": {
