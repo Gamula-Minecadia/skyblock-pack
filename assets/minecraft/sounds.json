@@ -56,72 +56,72 @@
 	},
 	"custom.ecdinosplains.ankydeath": {
 		"sounds": [
-			"ecdinosplains/ankydeath"
+			"littleroom/ecdinosplains/ankydeath"
 		]
 	},
 	"custom.ecdinosplains.ankylo": {
 		"sounds": [
-			"ecdinosplains/ankylo"
+			"littleroom/ecdinosplains/ankylo"
 		]
 	},
 	"custom.ecdinosplains.archaeocall": {
 		"sounds": [
-			"ecdinosplains/archaeocall"
+			"littleroom/ecdinosplains/archaeocall"
 		]
 	},
 	"custom.ecdinosplains.brachio": {
 		"sounds": [
-			"ecdinosplains/brachio"
+			"littleroom/ecdinosplains/brachio"
 		]
 	},
 	"custom.ecdinosplains.dilocall": {
 		"sounds": [
-			"ecdinosplains/dilocall"
+			"littleroom/ecdinosplains/dilocall"
 		]
 	},
 	"custom.ecdinosplains.dilospit": {
 		"sounds": [
-			"ecdinosplains/dilospit"
+			"littleroom/ecdinosplains/dilospit"
 		]
 	},
 	"custom.ecdinosplains.dracorex": {
 		"sounds": [
-			"ecdinosplains/dracorex"
+			"littleroom/ecdinosplains/dracorex"
 		]
 	},
 	"custom.ecdinosplains.dracostun": {
 		"sounds": [
-			"ecdinosplains/dracostun"
+			"littleroom/ecdinosplains/dracostun"
 		]
 	},
 	"custom.ecdinosplains.parasaur": {
 		"sounds": [
-			"ecdinosplains/parasaur"
+			"littleroom/ecdinosplains/parasaur"
 		]
 	},
 	"custom.ecdinosplains.trexroar": {
 		"sounds": [
-			"ecdinosplains/trexroar"
+			"littleroom/ecdinosplains/trexroar"
 		]
 	},
 	"custom.ecdinosplains.tricedying": {
 		"sounds": [
-			"ecdinosplains/tricedying"
+			"littleroom/ecdinosplains/tricedying"
 		]
 	},
 	"custom.ecdinosplains.triceratops": {
 		"sounds": [
-			"ecdinosplains/triceratops"
+			"littleroom/ecdinosplains/triceratops"
 		]
 	},
 	"custom.ecdinosplains.tupandactylus": {
 		"sounds": [
-			"ecdinosplains/tupandactylus"
+			"littleroom/ecdinosplains/tupandactylus"
 		]
 	},
 	"custom.ecdinosplains.utahraptorcall": {
 		"sounds": [
-			"ecdinosplains/utahraptorcall"
+			"littleroom/ecdinosplains/utahraptorcall"
 		]
 	},
 	"block.wood.hit": {

@@ -813,7 +813,6 @@
         {"predicate": {"custom_model_data": 60076},"model": "item/custom/furniture/japanese/ofuro"},
         {"predicate": {"custom_model_data": 60077},"model": "item/custom/furniture/japanese/teru_teru_bozu"},
         {"predicate": {"custom_model_data": 60078},"model": "item/custom/furniture/japanese/zabuton"},
-        {"predicate": {"custom_model_data": 60112},"model": "item/custom/cosmetics/balloons/sleigh"},
         {"predicate": {"custom_model_data": 60123},"model": "item/custom/furniture/village/cooking_cauldron_1_empty"},
         {"predicate": {"custom_model_data": 60124},"model": "item/custom/furniture/village/cooking_cauldron_1_water"},
         {"predicate": {"custom_model_data": 60125},"model": "item/custom/furniture/village/cooking_cauldron_1_witch"},
@@ -1153,7 +1152,7 @@
         {"predicate": {"custom_model_data": 60531},"model": "item/custom/furniture/rome/picture"},
         {"predicate": {"custom_model_data": 60532},"model": "item/custom/furniture/rome/pot"},
         {"predicate": {"custom_model_data": 60533},"model": "item/custom/furniture/rome/roman_pole"},
-        {"predicate": {"custom_model_data": 60534},"model": "item/custom/furniture/rome/spatan_shield"},
+        {"predicate": {"custom_model_data": 60534},"model": "item/custom/furniture/rome/spartan_shield"},
         {"predicate": {"custom_model_data": 60535},"model": "item/custom/furniture/rome/statue"},
         {"predicate": {"custom_model_data": 60536},"model": "item/custom/furniture/rome/sun_lounger"},
         {"predicate": {"custom_model_data": 60537},"model": "item/custom/furniture/rome/table_1"},
@@ -1166,7 +1165,6 @@
         {"predicate": {"custom_model_data": 60544},"model": "item/custom/furniture/spawn/billboard_furniture"},
         {"predicate": {"custom_model_data": 60545},"model": "item/custom/furniture/spawn/billboard_market"},
         {"predicate": {"custom_model_data": 70000},"model": "item/custom/bugs/jellyfish"},
-        {"predicate": {"custom_model_data": 70001}, "model":"item/custom/pets/pet_yoshi"},
         {"predicate": {"custom_model_data": 70002}, "model":"item/custom/robots/farming_robot"},
         {"predicate": {"custom_model_data": 70003}, "model":"item/custom/robots/combat_robot"}
 ]
