@@ -1416,24 +1416,6 @@
       "height": 256
     },
     {
-      "file": "minecadia/ui/gui/crates/gui_crate_opening_monthly_thanksgiving.png",
-      "ascent": 28,
-      "type": "bitmap",
-      "chars": [
-        "清"
-      ],
-      "height": 256
-    },
-    {
-      "file": "minecadia/ui/gui/crates/gui_crate_opening_monthly_valentines.png",
-      "ascent": 28,
-      "type": "bitmap",
-      "chars": [
-        "您"
-      ],
-      "height": 256
-    },
-    {
       "file": "minecadia/ui/gui/crates/gui_crate_opening_arcade.png",
       "ascent": 47,
       "type": "bitmap",
