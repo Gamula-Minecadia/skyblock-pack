@@ -778,7 +778,7 @@
     },
     {
       "file": "minecadia/ui/gui/gold/gui_gold_ranks.png",
-      "ascent": 30,
+      "ascent": 43,
       "type": "bitmap",
       "chars": [
         "⼦"
@@ -796,7 +796,7 @@
     },
     {
       "file": "minecadia/ui/gui/gold/gui_gold_misc_category.png",
-      "ascent": 28,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "鮱"
@@ -805,7 +805,7 @@
     },
     {
       "file": "minecadia/ui/gui/gold/gui_gold_cosmetic_category.png",
-      "ascent": 28,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "冬"
