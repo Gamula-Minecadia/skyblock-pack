@@ -7,6 +7,7 @@
         {"predicate": {"custom_model_data": 1},"model": "item/custom/keys/arcade_key"},
         {"predicate": {"custom_model_data": 2},"model": "item/custom/keys/gamecube_key"},
         {"predicate": {"custom_model_data": 3},"model": "item/custom/keys/clawmachine_key"},
+        {"predicate": {"custom_model_data": 4},"model": "item/custom/keys/easter_key"},
         {"predicate": {"custom_model_data": 31},"model": "item/custom/icons/misc/banknote"},
         {"predicate": {"custom_model_data": 32},"model": "item/custom/generators/coalgenerator"},
         {"predicate": {"custom_model_data": 33},"model": "item/custom/generators/goldgenerator"},
