@@ -1245,6 +1245,51 @@
       "height": 256
     },
     {
+      "file": "gamula/ui/gui/hypebox/gui_hypebox_solo.png",
+      "ascent": 47,
+      "type": "bitmap",
+      "chars": [
+        "腹"
+      ],
+      "height": 256
+    },
+    {
+      "file": "gamula/ui/gui/hypebox/gui_hypebox_duo.png",
+      "ascent": 47,
+      "type": "bitmap",
+      "chars": [
+        "臂"
+      ],
+      "height": 256
+    },
+    {
+      "file": "gamula/ui/gui/hypebox/gui_hypebox_select.png",
+      "ascent": 47,
+      "type": "bitmap",
+      "chars": [
+        "岁"
+      ],
+      "height": 256
+    },
+    {
+      "file": "gamula/ui/gui/hypebox/gui_hypebox_preview.png",
+      "ascent": 47,
+      "type": "bitmap",
+      "chars": [
+        "岛"
+      ],
+      "height": 256
+    },
+    {
+      "file": "gamula/ui/gui/hypebox/gui_hypebox_spectate.png",
+      "ascent": 47,
+      "type": "bitmap",
+      "chars": [
+        "岸"
+      ],
+      "height": 256
+    },
+    {
       "file": "minecadia/ui/gui/skills/gui_skill_combat.png",
       "ascent": 47,
       "type": "bitmap",
