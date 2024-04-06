@@ -867,6 +867,7 @@
         {"predicate": {"custom_model_data": 40000},"model": "item/custom/cosmetics/balloons/icecream_truck_green"},
         {"predicate": {"custom_model_data": 40001},"model": "item/custom/cosmetics/balloons/icecream_truck_pink"},
         {"predicate": {"custom_model_data": 40002},"model": "item/custom/cosmetics/balloons/icecream_truck_red"},
+        {"predicate": {"custom_model_data": 40003},"model": "item/custom/cosmetics/balloons/star"},
         {"predicate": {"custom_model_data": 50000},"model": "item/custom/icons/overlay_tone"},
         {"predicate": {"custom_model_data": 58000},"model": "item/custom/furniture/build/small_wall_flag"},
         {"predicate": {"custom_model_data": 58001},"model": "item/custom/furniture/build/obelisk_glyphs"},
