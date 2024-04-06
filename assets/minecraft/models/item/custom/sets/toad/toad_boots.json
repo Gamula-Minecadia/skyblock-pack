@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
+		"layer0": "minecadia/sets/toad/toad_boots",
 		"layer1": "minecadia/sets/toad/toad_boots"
 	},
 	"gui_light": "front",

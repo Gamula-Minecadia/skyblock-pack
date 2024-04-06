@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
+		"layer0": "minecadia/sets/arcade_green/armor/arcadehero_green_boots",
 		"layer1": "minecadia/sets/arcade_green/armor/arcadehero_green_boots"
 	},
 	"gui_light": "front",
