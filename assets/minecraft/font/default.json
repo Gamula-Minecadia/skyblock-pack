@@ -1245,7 +1245,44 @@
       "height": 256
     },
     {
-      "file": "gamula/ui/gui/hypebox/gui_hypebox_solo.png",
+      "file": "minecadia/ui/gui/casino/gui_casino_main.png",
+      "ascent": 47,
+      "type": "bitmap",
+      "chars": [
+        "暖"
+      ],
+      "height": 256
+    },
+    {
+      "file": "minecadia/ui/gui/casino/gui_casino_limbo.png",
+      "ascent": 47,
+      "type": "bitmap",
+      "chars": [
+        "盲"
+      ],
+      "height": 256
+    },
+    {
+      "file": "minecadia/ui/gui/casino/gui_casino_mines.png",
+      "ascent": 47,
+      "type": "bitmap",
+      "chars": [
+        "看"
+      ],
+      "height": 256
+    },
+    {
+      "ascent": 12,
+      "height": 50,
+      "chars": [
+        "胃脑",
+        "胸脏"
+      ],
+      "file": "minecadia/titles/hologram/hypebox.png",
+      "type": "bitmap"
+    },
+    {
+      "file": "minecadia/ui/gui/hypebox/gui_hypebox_solo.png",
       "ascent": 47,
       "type": "bitmap",
       "chars": [
@@ -1254,7 +1291,7 @@
       "height": 256
     },
     {
-      "file": "gamula/ui/gui/hypebox/gui_hypebox_duo.png",
+      "file": "minecadia/ui/gui/hypebox/gui_hypebox_duo.png",
       "ascent": 47,
       "type": "bitmap",
       "chars": [
@@ -1263,7 +1300,7 @@
       "height": 256
     },
     {
-      "file": "gamula/ui/gui/hypebox/gui_hypebox_select.png",
+      "file": "minecadia/ui/gui/hypebox/gui_hypebox_select.png",
       "ascent": 47,
       "type": "bitmap",
       "chars": [
@@ -1272,7 +1309,7 @@
       "height": 256
     },
     {
-      "file": "gamula/ui/gui/hypebox/gui_hypebox_preview.png",
+      "file": "minecadia/ui/gui/hypebox/gui_hypebox_preview.png",
       "ascent": 47,
       "type": "bitmap",
       "chars": [
@@ -1281,7 +1318,7 @@
       "height": 256
     },
     {
-      "file": "gamula/ui/gui/hypebox/gui_hypebox_spectate.png",
+      "file": "minecadia/ui/gui/hypebox/gui_hypebox_spectate.png",
       "ascent": 47,
       "type": "bitmap",
       "chars": [

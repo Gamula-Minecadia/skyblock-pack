@@ -6,6 +6,7 @@
     },
     "overrides": [
         {"predicate": {"custom_model_data": 2}, "model": "item/custom/sets/arcade_blue/arcadehero_boots"},
-        {"predicate": {"custom_model_data": 3}, "model": "item/custom/sets/arcade_green/arcadehero_boots"}
+        {"predicate": {"custom_model_data": 3}, "model": "item/custom/sets/arcade_green/arcadehero_boots"},
+        {"predicate": {"custom_model_data": 4}, "model": "item/custom/sets/toad/toad_boots"}
     ]
 }
