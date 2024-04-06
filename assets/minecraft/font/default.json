@@ -1291,6 +1291,15 @@
       "height": 256
     },
     {
+      "file": "minecadia/ui/gui/hypebox/gui_hypebox_main.png",
+      "ascent": 47,
+      "type": "bitmap",
+      "chars": [
+        "腿"
+      ],
+      "height": 256
+    },
+    {
       "file": "minecadia/ui/gui/hypebox/gui_hypebox_duo.png",
       "ascent": 47,
       "type": "bitmap",
