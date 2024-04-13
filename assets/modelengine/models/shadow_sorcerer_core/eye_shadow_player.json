@@ -1,0 +1,1 @@
+{"textures":{"1":"modelengine:entity/shadow_sorcerer_shadows"},"elements":[{"from":[6.285714,7.714286,7.9428573],"to":[7.428571,8.285714,7.9428573],"rotation":{"angle":0.0,"axis":"y","origin":[8.0,8.0,8.0]},"faces":{"north":{"uv":[4.375,5.75,4.625,5.875],"rotation":0,"texture":"#1","tintindex":0}}}],"display":{"head":{"translation":[0.0,-6.4,0.0],"scale":[4.0,4.0,4.0]}}}
