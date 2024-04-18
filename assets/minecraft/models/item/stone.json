@@ -31,6 +31,7 @@
         {"predicate": {"custom_model_data": 25003}, "model": "item/custom/blocks/wood/mangrove_block_1"},
         {"predicate": {"custom_model_data": 25004}, "model": "item/custom/blocks/wood/birch_block_6"},
         {"predicate": {"custom_model_data": 25005}, "model": "item/custom/blocks/wood/cherry_block_4"},
-        {"predicate": {"custom_model_data": 25006}, "model": "item/custom/blocks/wood/oak_block_9"}
+        {"predicate": {"custom_model_data": 25006}, "model": "item/custom/blocks/wood/oak_block_9"},
+        {"predicate": {"custom_model_data": 25007}, "model": "item/custom/blocks/crypto/eth"}
     ]
 }

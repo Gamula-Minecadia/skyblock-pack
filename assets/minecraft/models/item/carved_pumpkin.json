@@ -1,6 +1,7 @@
 {
     "parent": "block/carved_pumpkin",
     "overrides": [
-        {"predicate": {"custom_model_data": 4}, "model": "item/custom/sets/toad/toad_helmet"}
+        {"predicate": {"custom_model_data": 4}, "model": "item/custom/sets/toad/toad_helmet"},
+        {"predicate": {"custom_model_data": 5}, "model": "item/custom/sets/crypto/crypto_helmet"}
     ]
 }
