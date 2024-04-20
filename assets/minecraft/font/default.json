@@ -777,6 +777,15 @@
       "height": 256
     },
     {
+      "file": "minecadia/ui/gui/gold/gui_gold_crates_crypto.png",
+      "ascent": 47,
+      "type": "bitmap",
+      "chars": [
+        "简"
+      ],
+      "height": 256
+    },
+    {
       "file": "minecadia/ui/gui/gold/gui_gold_ranks.png",
       "ascent": 43,
       "type": "bitmap",
@@ -1511,6 +1520,15 @@
       "ascent": 47,
       "type": "bitmap",
       "chars": [
+        "答"
+      ],
+      "height": 256
+    },
+    {
+      "file": "minecadia/ui/gui/crates/gui_crate_opening_crypto.png",
+      "ascent": 47,
+      "type": "bitmap",
+      "chars": [
         "⼏"
       ],
       "height": 256
@@ -1539,6 +1557,15 @@
       "type": "bitmap",
       "chars": [
         "⼔"
+      ],
+      "height": 256
+    },
+    {
+      "file": "minecadia/ui/gui/crates/gui_crate_preview_crypto.png",
+      "ascent": 47,
+      "type": "bitmap",
+      "chars": [
+        "等"
       ],
       "height": 256
     },
