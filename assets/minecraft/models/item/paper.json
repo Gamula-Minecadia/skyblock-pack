@@ -238,6 +238,7 @@
         {"predicate": {"custom_model_data": 19003}, "model":"item/custom/pets/pet_money"},
         {"predicate": {"custom_model_data": 19004}, "model":"item/custom/pets/pet_skill"},
         {"predicate": {"custom_model_data": 19005}, "model":"item/custom/pets/pet_yoshi"},
+        {"predicate": {"custom_model_data": 19006}, "model":"item/custom/pets/pet_utility"},
         {"predicate": {"custom_model_data": 20000}, "model":"item/custom/crops/pot"},
         {"predicate": {"custom_model_data": 20001}, "model":"item/custom/crops/tem_seed"},
         {"predicate": {"custom_model_data": 20002}, "model":"item/custom/crops/watered_pot"},
