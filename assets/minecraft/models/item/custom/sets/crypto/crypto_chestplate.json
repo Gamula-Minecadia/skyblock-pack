@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
+		"layer0": "minecadia/sets/crypto/crypto_chestplate",
 		"layer1": "minecadia/sets/crypto/crypto_chestplate"
 	},
 	"gui_light": "front",
