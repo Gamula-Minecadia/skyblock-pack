@@ -414,6 +414,7 @@
 		{"predicate": {"custom_model_data": 30022}, "model": "item/custom/quest/dinosaur/dinomeatsmall"},
 		{"predicate": {"custom_model_data": 30023}, "model": "item/custom/quest/dinosaur/dinomeatmedium"},
 		{"predicate": {"custom_model_data": 30024}, "model": "item/custom/quest/dinosaur/dinomeatlarge"},
-		{"predicate": {"custom_model_data": 30025}, "model": "item/custom/quest/crypto/bitcoin"}
+		{"predicate": {"custom_model_data": 30025}, "model": "item/custom/quest/crypto/bitcoin"},
+		{"predicate": {"custom_model_data": 30026}, "model": "item/custom/quest/crypto/dogecoin"}
     ]
 }
