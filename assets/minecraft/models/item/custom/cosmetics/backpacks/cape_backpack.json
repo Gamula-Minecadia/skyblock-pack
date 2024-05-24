@@ -1,0 +1,86 @@
+{
+	"credit": "Made by Magic-Store",
+	"textures": {
+		"1": "minecadia/cosmetics/backpacks/cape_backpack",
+		"particle": "minecadia/cosmetics/backpacks/cape_backpack"
+	},
+	"elements": [
+		{
+			"from": [1.5, -4.5, 1.75],
+			"to": [14.5, 17.5, 4.75],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 8.5, 12]},
+			"faces": {
+				"east": {"uv": [5.25, 8.25, 4.5, 13.75], "texture": "#1"},
+				"south": {"uv": [1.25, 8.25, 4.5, 13.75], "texture": "#1"},
+				"west": {"uv": [4.5, 8.25, 5.25, 13.75], "texture": "#1"}
+			}
+		},
+		{
+			"from": [1.5, 17.5, 1.75],
+			"to": [14.5, -4.5, 4.75],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 8.5, 12]},
+			"faces": {
+				"east": {"uv": [5.25, 13.75, 4.5, 8.25], "texture": "#1"},
+				"south": {"uv": [1.25, 13.75, 4.5, 8.25], "texture": "#1"},
+				"west": {"uv": [4.5, 13.75, 5.25, 8.25], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [32.27, -14.45, -10],
+			"translation": [0, 2.75, 2.75],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [32.27, -14.45, -10],
+			"translation": [0, 2.75, 2.75],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 15.5, 0],
+			"translation": [5, 2, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 15.5, 0],
+			"translation": [5, 2, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"rotation": [25, -50, 0],
+			"translation": [-0.75, 2, 0],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"head": {
+			"translation": [0, -62, 14.25],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"translation": [0, 5.75, 13],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "main",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"children": [
+				{
+					"name": "group",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"nbt": "{}",
+					"children": [0, 1]
+				}
+			]
+		}
+	]
+}
