@@ -1526,7 +1526,7 @@
     },
     {
       "file": "minecadia/ui/gui/cobblecube/gui_cobblecube_menu.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "퀖"
@@ -1535,7 +1535,7 @@
     },
     {
       "file": "minecadia/ui/gui/cobblecube/gui_cobblecube_menu_upgrades.png",
-      "ascent": 28,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "큕"
@@ -1544,7 +1544,7 @@
     },
     {
       "file": "minecadia/ui/gui/cobblecube/gui_cobblecube_menu_upgrades_loot.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "킼"
@@ -1553,7 +1553,7 @@
     },
     {
       "file": "minecadia/ui/gui/cobblecube/gui_cobblecube_menu_upgrades_storage.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "텺"
@@ -1562,7 +1562,7 @@
     },
     {
       "file": "minecadia/ui/gui/collectors/gui_collector_menu.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "眉"
@@ -1571,7 +1571,7 @@
     },
     {
       "file": "minecadia/ui/gui/collectors/gui_collector_upgrades.png",
-      "ascent": 28,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "盼"
@@ -1580,7 +1580,7 @@
     },
     {
       "file": "minecadia/ui/gui/collectors/gui_collector_upgrade_range.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "眨"
@@ -1589,7 +1589,7 @@
     },
     {
       "file": "minecadia/ui/gui/collectors/gui_collector_upgrade_slots.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "眼"
@@ -1598,7 +1598,7 @@
     },
     {
       "file": "minecadia/ui/gui/collectors/gui_collector_upgrade_storage.png",
-      "ascent": 29,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "睡"
@@ -1607,7 +1607,7 @@
     },
     {
       "file": "minecadia/ui/gui/crates/gui_crate_opening_monthly.png",
-      "ascent": 28,
+      "ascent": 47,
       "type": "bitmap",
       "chars": [
         "薌"
